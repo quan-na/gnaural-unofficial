@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<!-- See http://gnaural.sourceforge.net -->
+<schedule>
+<gnauralfile_version>1.20101006</gnauralfile_version>
+<gnaural_version>1.0.20101115</gnaural_version>
+<date>Fri Oct  8 14:04:32 2010
+</date>
+<title>pulse</title>
+<schedule_description></schedule_description>
+<author>Dane M</author>
+<totaltime>600.001</totaltime>
+<voicecount>4</voicecount>
+<totalentrycount>27</totalentrycount>
+<loops>1</loops>
+<overallvolume_left>1</overallvolume_left>
+<overallvolume_right>1</overallvolume_right>
+<stereoswap>0</stereoswap>
+<graphview>3</graphview>
+<voice>
+<description>Voice 0</description>
+<id>0</id>
+<type>0</type>
+<voice_state>0</voice_state>
+<voice_hide>0</voice_hide>
+<voice_mute>0</voice_mute>
+<voice_mono>0</voice_mono>
+<entrycount>1</entrycount>
+<entries>
+<entry parent="0" duration="600" volume_left="0.51856" volume_right="0.51856" beatfreq="15" basefreq="140" state="0"/>
+</entries>
+</voice>
+<voice>
+<description>split</description>
+<id>1</id>
+<type>0</type>
+<voice_state>0</voice_state>
+<voice_hide>0</voice_hide>
+<voice_mute>0</voice_mute>
+<voice_mono>0</voice_mono>
+<entrycount>20</entrycount>
+<entries>
+<entry parent="1" duration="154.219" volume_left="0.518967" volume_right="0.518967" beatfreq="15" basefreq="140" state="0"/>
+<entry parent="1" duration="0" volume_left="0.518967" volume_right="0.518967" beatfreq="15" basefreq="140" state="0"/>
+<entry parent="1" duration="30.4266" volume_left="0.518967" volume_right="0.518967" beatfreq="15.5165" basefreq="144" state="0"/>
+<entry parent="1" duration="0.0422629" volume_left="0.518967" volume_right="0.518967" beatfreq="15.5093" basefreq="144" state="0"/>
+<entry parent="1" duration="60.9375" volume_left="0.518967" volume_right="0.518967" beatfreq="15" basefreq="140" state="0"/>
+<entry parent="1" duration="1.8749" volume_left="0.518967" volume_right="0.518967" beatfreq="14.4926" basefreq="136" state="0"/>
+<entry parent="1" duration="22.0314" volume_left="0.518967" volume_right="0.518967" beatfreq="15" basefreq="140" state="0"/>
+<entry parent="1" duration="0.937501" volume_left="0.518967" volume_right="0.518967" beatfreq="16" basefreq="140" state="0"/>
+<entry parent="1" duration="18.75" volume_left="0.518967" volume_right="0.518967" beatfreq="14.9712" basefreq="148" state="0"/>
+<entry parent="1" duration="0" volume_left="0.518967" volume_right="0.518967" beatfreq="16" basefreq="141" state="0"/>
+<entry parent="1" duration="2.34375" volume_left="0.518967" volume_right="0.518967" beatfreq="15.0254" basefreq="148" state="0"/>
+<entry parent="1" duration="0.937501" volume_left="0.518967" volume_right="0.518967" beatfreq="16" basefreq="141" state="0"/>
+<entry parent="1" duration="1.58472e-05" volume_left="0.518967" volume_right="0.518967" beatfreq="15" basefreq="148" state="0"/>
+<entry parent="1" duration="1.2469" volume_left="0.518967" volume_right="0.518967" beatfreq="16.0226" basefreq="141" state="0"/>
+<entry parent="1" duration="70.0032" volume_left="0.518967" volume_right="0.518967" beatfreq="15.0096" basefreq="148" state="0"/>
+<entry parent="1" duration="0" volume_left="0.518967" volume_right="0.518967" beatfreq="20.0368" basefreq="146.124" state="0"/>
+<entry parent="1" duration="41.25" volume_left="0.518967" volume_right="0.518967" beatfreq="14.9924" basefreq="122.958" state="0"/>
+<entry parent="1" duration="18.2813" volume_left="0.518967" volume_right="0.518967" beatfreq="22.9942" basefreq="100.057" state="0"/>
+<entry parent="1" duration="11.25" volume_left="0.518967" volume_right="0.518967" beatfreq="14.9944" basefreq="151.107" state="0"/>
+<entry parent="1" duration="165.469" volume_left="0.518967" volume_right="0.518967" beatfreq="14.9943" basefreq="136.475" state="0"/>
+</entries>
+</voice>
+<voice>
+<description>set2 1</description>
+<id>2</id>
+<type>0</type>
+<voice_state>0</voice_state>
+<voice_hide>0</voice_hide>
+<voice_mute>0</voice_mute>
+<voice_mono>0</voice_mono>
+<entrycount>1</entrycount>
+<entries>
+<entry parent="2" duration="600" volume_left="0.480734" volume_right="0.480734" beatfreq="10.9275" basefreq="80.076" state="0"/>
+</entries>
+</voice>
+<voice>
+<description>split 2</description>
+<id>3</id>
+<type>0</type>
+<voice_state>1</voice_state>
+<voice_hide>0</voice_hide>
+<voice_mute>0</voice_mute>
+<voice_mono>0</voice_mono>
+<entrycount>5</entrycount>
+<entries>
+<entry parent="3" duration="316.875" volume_left="0.476528" volume_right="0.476528" beatfreq="10.9275" basefreq="80.4054" state="0"/>
+<entry parent="3" duration="5.15625" volume_left="0.476528" volume_right="0.476528" beatfreq="11.687" basefreq="86.2279" state="0"/>
+<entry parent="3" duration="53.4375" volume_left="0.476528" volume_right="0.476528" beatfreq="10.9275" basefreq="80.4054" state="0"/>
+<entry parent="3" duration="6.5625" volume_left="0.476528" volume_right="0.476528" beatfreq="10.9275" basefreq="80.4054" state="0"/>
+<entry parent="3" duration="217.969" volume_left="0.476528" volume_right="0.476528" beatfreq="9.45084" basefreq="75.1375" state="0"/>
+</entries>
+</voice>
+</schedule>

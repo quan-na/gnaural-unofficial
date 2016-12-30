@@ -1,0 +1,574 @@
+<?xml version="1.0"?>
+<!-- See http://gnaural.sourceforge.net -->
+<schedule>
+<gnauralfile_version>1.20101006</gnauralfile_version>
+<gnaural_version>1.0.20110606</gnaural_version>
+<date>Tue Jul 29 12:15:52 2014
+</date>
+<title>Forest Sounds</title>
+<schedule_description>Meditation beats mixed with forest sounds</schedule_description>
+<author>Gnaural</author>
+<totaltime>1500</totaltime>
+<voicecount>18</voicecount>
+<totalentrycount>339</totalentrycount>
+<loops>1</loops>
+<overallvolume_left>1</overallvolume_left>
+<overallvolume_right>1</overallvolume_right>
+<stereoswap>0</stereoswap>
+<graphview>1</graphview>
+<voice>
+<description>Meditative voice</description>
+<id>0</id>
+<type>0</type>
+<voice_state>1</voice_state>
+<voice_hide>0</voice_hide>
+<voice_mute>0</voice_mute>
+<voice_mono>0</voice_mono>
+<entrycount>36</entrycount>
+<entries>
+<entry parent="0" duration="9" volume_left="0.72" volume_right="0.72" beatfreq="0" basefreq="262.35" state="0"/>
+<entry parent="0" duration="3.9717" volume_left="0.73" volume_right="0.73" beatfreq="12" basefreq="262.1" state="0"/>
+<entry parent="0" duration="4.71698" volume_left="0.73" volume_right="0.73" beatfreq="11.3045" basefreq="261.873" state="0"/>
+<entry parent="0" duration="3.53774" volume_left="0.73" volume_right="0.73" beatfreq="10.6817" basefreq="261.788" state="0"/>
+<entry parent="0" duration="3.10549" volume_left="0.73" volume_right="0.73" beatfreq="10.0381" basefreq="261.655" state="0"/>
+<entry parent="0" duration="3.96998" volume_left="0.73" volume_right="0.73" beatfreq="9.42188" basefreq="261.601" state="0"/>
+<entry parent="0" duration="5.89623" volume_left="0.73" volume_right="0.73" beatfreq="8.81315" basefreq="261.445" state="0"/>
+<entry parent="0" duration="4.71698" volume_left="0.73" volume_right="0.73" beatfreq="8.12803" basefreq="261.212" state="0"/>
+<entry parent="0" duration="7.354" volume_left="0.73" volume_right="0.73" beatfreq="7.46367" basefreq="261.063" state="0"/>
+<entry parent="0" duration="12.6932" volume_left="0.73" volume_right="0.73" beatfreq="6.82217" basefreq="260.83" state="0"/>
+<entry parent="0" duration="17.4425" volume_left="0.73" volume_right="0.73" beatfreq="6.09343" basefreq="260.193" state="0"/>
+<entry parent="0" duration="26.1896" volume_left="0.73" volume_right="0.73" beatfreq="5.43404" basefreq="259.14" state="0"/>
+<entry parent="0" duration="29.7048" volume_left="0.73" volume_right="0.73" beatfreq="4.97232" basefreq="258.409" state="0"/>
+<entry parent="0" duration="39.8707" volume_left="0.73" volume_right="0.73" beatfreq="4.59466" basefreq="257.45" state="0"/>
+<entry parent="0" duration="59.1312" volume_left="0.73" volume_right="0.73" beatfreq="4.2872" basefreq="256.069" state="0"/>
+<entry parent="0" duration="76.4821" volume_left="0.73" volume_right="0.73" beatfreq="4.05899" basefreq="254.07" state="0"/>
+<entry parent="0" duration="90.5462" volume_left="0.73497" volume_right="0.73497" beatfreq="4.03806" basefreq="251.55" state="0"/>
+<entry parent="0" duration="99.3123" volume_left="0.74" volume_right="0.74" beatfreq="4" basefreq="249" state="0"/>
+<entry parent="0" duration="80.6877" volume_left="0.74" volume_right="0.74" beatfreq="3.95502" basefreq="245.943" state="0"/>
+<entry parent="0" duration="6" volume_left="0.74" volume_right="0.74" beatfreq="3.9" basefreq="243.94" state="0"/>
+<entry parent="0" duration="6" volume_left="0.74" volume_right="0.74" beatfreq="7" basefreq="243.77" state="0"/>
+<entry parent="0" duration="92.4539" volume_left="0.74" volume_right="0.74" beatfreq="3.9" basefreq="243.6" state="0"/>
+<entry parent="0" duration="83.7264" volume_left="0.742568" volume_right="0.742568" beatfreq="3.93426" basefreq="240.998" state="0"/>
+<entry parent="0" duration="95.5189" volume_left="0.744894" volume_right="0.744894" beatfreq="4.0173" basefreq="238.642" state="0"/>
+<entry parent="0" duration="88.3008" volume_left="0.747809" volume_right="0.747809" beatfreq="4.07958" basefreq="235.689" state="0"/>
+<entry parent="0" duration="6" volume_left="0.75" volume_right="0.75" beatfreq="4.1699" basefreq="233.47" state="0"/>
+<entry parent="0" duration="6" volume_left="0.75" volume_right="0.75" beatfreq="7" basefreq="233.3" state="0"/>
+<entry parent="0" duration="58.8973" volume_left="0.75" volume_right="0.75" beatfreq="4.1699" basefreq="233.13" state="0"/>
+<entry parent="0" duration="57.783" volume_left="0.752611" volume_right="0.752611" beatfreq="4.07958" basefreq="231.806" state="0"/>
+<entry parent="0" duration="63.3196" volume_left="0.755172" volume_right="0.755172" beatfreq="4.0173" basefreq="230.508" state="0"/>
+<entry parent="0" duration="112.388" volume_left="0.76" volume_right="0.76" beatfreq="3.93772" basefreq="228.06" state="0"/>
+<entry parent="0" duration="67.612" volume_left="0.766768" volume_right="0.766768" beatfreq="3.93426" basefreq="224.629" state="0"/>
+<entry parent="0" duration="6" volume_left="0.77" volume_right="0.77" beatfreq="3.9" basefreq="222.99" state="0"/>
+<entry parent="0" duration="6" volume_left="0.77" volume_right="0.77" beatfreq="7" basefreq="222.82" state="0"/>
+<entry parent="0" duration="160.156" volume_left="0.77" volume_right="0.77" beatfreq="3.9" basefreq="222.66" state="0"/>
+<entry parent="0" duration="5.51504" volume_left="0.725508" volume_right="0.725508" beatfreq="3.86965" basefreq="221.686" state="0"/>
+</entries>
+</voice>
+<voice>
+<description>00Nature.wav</description>
+<id>1</id>
+<type>2</type>
+<voice_state>0</voice_state>
+<voice_hide>0</voice_hide>
+<voice_mute>0</voice_mute>
+<voice_mono>0</voice_mono>
+<entrycount>15</entrycount>
+<entries>
+<entry parent="1" duration="0" volume_left="0.0762316" volume_right="0.0517926" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="1" duration="108.376" volume_left="0.135419" volume_right="0.130364" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="1" duration="63.0198" volume_left="0.103595" volume_right="0.0752307" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="1" duration="59.3137" volume_left="0.0149901" volume_right="0.0290978" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="1" duration="133.599" volume_left="0.135419" volume_right="0.0697893" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="1" duration="57.9932" volume_left="0.0440833" volume_right="0.0997703" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="1" duration="266.268" volume_left="0.0121049" volume_right="0.0119984" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="1" duration="46.3008" volume_left="0.00891094" volume_right="0.135419" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="1" duration="124.915" volume_left="0.115252" volume_right="0.00562283" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="1" duration="122.334" volume_left="0.103595" volume_right="0.0711315" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="1" duration="133.599" volume_left="0.0380358" volume_right="0.135419" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="1" duration="57.9932" volume_left="0.0997703" volume_right="0.0312125" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="1" duration="266.268" volume_left="0.0108124" volume_right="0.0121049" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="1" duration="46.3008" volume_left="0.135419" volume_right="0.0125334" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="1" duration="13.7198" volume_left="0.0526552" volume_right="0.115252" beatfreq="0" basefreq="0" state="0"/>
+</entries>
+</voice>
+<voice>
+<description>01Nature.wav</description>
+<id>2</id>
+<type>2</type>
+<voice_state>0</voice_state>
+<voice_hide>0</voice_hide>
+<voice_mute>0</voice_mute>
+<voice_mono>0</voice_mono>
+<entrycount>16</entrycount>
+<entries>
+<entry parent="2" duration="20.7366" volume_left="0.0349392" volume_right="0.0709296" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="2" duration="55.4128" volume_left="0.0606865" volume_right="0.0333363" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="2" duration="59.1791" volume_left="0.148716" volume_right="0.247798" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="2" duration="139.597" volume_left="0.00117597" volume_right="0.00750387" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="2" duration="62.3596" volume_left="0.00396194" volume_right="0.00244704" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="2" duration="74.382" volume_left="0.0486192" volume_right="0.0218558" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="2" duration="69.0118" volume_left="0.0196396" volume_right="0.0301418" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="2" duration="346.881" volume_left="0.202652" volume_right="0.120433" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="2" duration="59.1791" volume_left="0.17501" volume_right="0.247798" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="2" duration="139.597" volume_left="0.00750387" volume_right="0.0019936" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="2" duration="62.3596" volume_left="0.00396194" volume_right="0.00298786" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="2" duration="74.382" volume_left="0.0486192" volume_right="0.012743" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="2" duration="69.0118" volume_left="0.0245752" volume_right="0.0301418" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="2" duration="143.376" volume_left="0.201213" volume_right="0.202652" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="2" duration="120.295" volume_left="0.185738" volume_right="0.106436" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="2" duration="4.23994" volume_left="0.0676299" volume_right="0.280074" beatfreq="0" basefreq="0" state="0"/>
+</entries>
+</voice>
+<voice>
+<description>03Nature.wav</description>
+<id>3</id>
+<type>2</type>
+<voice_state>0</voice_state>
+<voice_hide>0</voice_hide>
+<voice_mute>0</voice_mute>
+<voice_mono>0</voice_mono>
+<entrycount>19</entrycount>
+<entries>
+<entry parent="3" duration="101.878" volume_left="0.0214708" volume_right="0.01124" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="3" duration="47.4845" volume_left="0.210324" volume_right="0.278886" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="3" duration="63.2803" volume_left="0.280074" volume_right="0.0306826" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="3" duration="57.2173" volume_left="0.00232478" volume_right="0.0416958" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="3" duration="65.9813" volume_left="0.014745" volume_right="0.00850498" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="3" duration="64.6417" volume_left="0.204952" volume_right="0.258603" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="3" duration="69.2176" volume_left="0.0155095" volume_right="0.0109932" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="3" duration="46.6721" volume_left="0.0271172" volume_right="0.0261871" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="3" duration="141.817" volume_left="0.0373542" volume_right="0.045306" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="3" duration="195.099" volume_left="0.00475591" volume_right="0.0194363" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="3" duration="47.4845" volume_left="0.0831096" volume_right="0.278886" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="3" duration="63.2803" volume_left="0.280074" volume_right="0.0519419" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="3" duration="57.2173" volume_left="0.0416958" volume_right="0.00167211" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="3" duration="65.9813" volume_left="0.014745" volume_right="0.00852353" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="3" duration="64.6417" volume_left="0.163237" volume_right="0.258603" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="3" duration="69.2176" volume_left="0.0154589" volume_right="0.0155095" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="3" duration="46.6721" volume_left="0.0135586" volume_right="0.0271172" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="3" duration="141.817" volume_left="0.00257431" volume_right="0.045306" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="3" duration="90.3997" volume_left="0.00170862" volume_right="0.0194363" beatfreq="0" basefreq="0" state="0"/>
+</entries>
+</voice>
+<voice>
+<description>04Nature.wav</description>
+<id>4</id>
+<type>2</type>
+<voice_state>0</voice_state>
+<voice_hide>0</voice_hide>
+<voice_mute>0</voice_mute>
+<voice_mono>0</voice_mono>
+<entrycount>20</entrycount>
+<entries>
+<entry parent="4" duration="21.7062" volume_left="0.10216" volume_right="0.0307164" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="4" duration="104.085" volume_left="0.274087" volume_right="0.0617842" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="4" duration="50.1101" volume_left="0.0343418" volume_right="0.0292156" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="4" duration="58.5226" volume_left="0.0108315" volume_right="0.0105698" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="4" duration="102.925" volume_left="0.0974787" volume_right="0.254004" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="4" duration="135.616" volume_left="0.268975" volume_right="0.260603" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="4" duration="45.3567" volume_left="0.0149954" volume_right="0.00237658" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="4" duration="67.2083" volume_left="0.00249497" volume_right="0.00484486" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="4" duration="67.0317" volume_left="0.00550922" volume_right="0.0369211" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="4" duration="167.702" volume_left="0.0113132" volume_right="0.0168842" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="4" duration="56.9386" volume_left="0.180262" volume_right="0.171435" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="4" duration="50.1101" volume_left="0.0343418" volume_right="0.00268142" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="4" duration="58.5226" volume_left="0.0108315" volume_right="0.00772278" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="4" duration="48.8714" volume_left="0.254004" volume_right="0.0820569" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="4" duration="54.0532" volume_left="0.189789" volume_right="0.0242963" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="4" duration="135.616" volume_left="0.268975" volume_right="0.137511" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="4" duration="45.3567" volume_left="0.0149954" volume_right="0.00726266" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="4" duration="67.2083" volume_left="0.00186902" volume_right="0.00484486" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="4" duration="67.0317" volume_left="0.0369211" volume_right="0.00483539" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="4" duration="96.0281" volume_left="0.00813125" volume_right="0.0168842" beatfreq="0" basefreq="0" state="0"/>
+</entries>
+</voice>
+<voice>
+<description>05Nature.wav</description>
+<id>5</id>
+<type>2</type>
+<voice_state>0</voice_state>
+<voice_hide>0</voice_hide>
+<voice_mute>0</voice_mute>
+<voice_mono>0</voice_mono>
+<entrycount>13</entrycount>
+<entries>
+<entry parent="5" duration="94.0956" volume_left="0.216791" volume_right="0.0311465" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="5" duration="69.9165" volume_left="0.089286" volume_right="0.207102" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="5" duration="128.164" volume_left="0.0137557" volume_right="0.0582874" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="5" duration="126.998" volume_left="0.277591" volume_right="0.228811" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="5" duration="43.8762" volume_left="0.0510799" volume_right="0.0333092" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="5" duration="122.398" volume_left="0.0586104" volume_right="0.0561402" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="5" duration="62.1865" volume_left="0.127524" volume_right="0.278122" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="5" duration="197.872" volume_left="0.0452349" volume_right="0.0614027" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="5" duration="198.08" volume_left="0.207102" volume_right="0.0766987" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="5" duration="126.998" volume_left="0.277591" volume_right="0.0639499" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="5" duration="166.274" volume_left="0.0254151" volume_right="0.0510799" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="5" duration="128.062" volume_left="0.278122" volume_right="0.0676779" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="5" duration="35.0795" volume_left="0.197064" volume_right="0.13094" beatfreq="0" basefreq="0" state="0"/>
+</entries>
+</voice>
+<voice>
+<description>06Nature.wav</description>
+<id>6</id>
+<type>2</type>
+<voice_state>0</voice_state>
+<voice_hide>0</voice_hide>
+<voice_mute>0</voice_mute>
+<voice_mono>0</voice_mono>
+<entrycount>13</entrycount>
+<entries>
+<entry parent="6" duration="17.9419" volume_left="0.10102" volume_right="0.280074" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="6" duration="53.3234" volume_left="0.248245" volume_right="0.154014" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="6" duration="60.5674" volume_left="0.23045" volume_right="0.195957" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="6" duration="42.6643" volume_left="0.257001" volume_right="0.215755" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="6" duration="231.827" volume_left="0.0269048" volume_right="0.0188268" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="6" duration="78.0682" volume_left="0.00206386" volume_right="0.00672454" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="6" duration="216.981" volume_left="0.19215" volume_right="0.280074" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="6" duration="121.302" volume_left="0.0201766" volume_right="0.0615974" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="6" duration="60.5674" volume_left="0.0483122" volume_right="0.23045" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="6" duration="42.6643" volume_left="0.242019" volume_right="0.257001" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="6" duration="231.827" volume_left="0.00109118" volume_right="0.0269048" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="6" duration="78.0682" volume_left="0.000729396" volume_right="0.00672454" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="6" duration="264.198" volume_left="0.230138" volume_right="0.280074" beatfreq="0" basefreq="0" state="0"/>
+</entries>
+</voice>
+<voice>
+<description>12Nature.wav</description>
+<id>7</id>
+<type>2</type>
+<voice_state>0</voice_state>
+<voice_hide>0</voice_hide>
+<voice_mute>0</voice_mute>
+<voice_mono>0</voice_mono>
+<entrycount>20</entrycount>
+<entries>
+<entry parent="7" duration="23.1252" volume_left="0.280074" volume_right="0.255856" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="7" duration="46.953" volume_left="0.000385573" volume_right="0.00244784" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="7" duration="65.278" volume_left="0.26076" volume_right="0.116258" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="7" duration="54.0664" volume_left="0.00856123" volume_right="0.280074" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="7" duration="51.7712" volume_left="0.0375972" volume_right="0.280074" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="7" duration="108.006" volume_left="0.0459676" volume_right="0.0341563" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="7" duration="62.4133" volume_left="0.0150285" volume_right="0.0180074" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="7" duration="68.1208" volume_left="0.0347933" volume_right="0.013751" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="7" duration="61.4526" volume_left="0.00758185" volume_right="0.0110564" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="7" duration="114.5" volume_left="0.0178468" volume_right="0.0240426" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="7" duration="165.803" volume_left="0.213777" volume_right="0.187829" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="7" duration="65.278" volume_left="0.0253354" volume_right="0.26076" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="7" duration="54.0664" volume_left="0.25984" volume_right="0.280074" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="7" duration="51.7712" volume_left="0.187967" volume_right="0.280074" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="7" duration="108.006" volume_left="0.0459676" volume_right="0.0325021" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="7" duration="62.4133" volume_left="0.00922893" volume_right="0.0180074" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="7" duration="68.1208" volume_left="0.0347933" volume_right="0.0177723" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="7" duration="61.4526" volume_left="0.0110564" volume_right="0.010814" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="7" duration="114.5" volume_left="0.00403554" volume_right="0.0240426" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="7" duration="92.9025" volume_left="0.213777" volume_right="0.0404377" beatfreq="0" basefreq="0" state="0"/>
+</entries>
+</voice>
+<voice>
+<description>14Nature.wav</description>
+<id>8</id>
+<type>2</type>
+<voice_state>0</voice_state>
+<voice_hide>0</voice_hide>
+<voice_mute>0</voice_mute>
+<voice_mono>0</voice_mono>
+<entrycount>19</entrycount>
+<entries>
+<entry parent="8" duration="74.2944" volume_left="0.0605094" volume_right="0.152892" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="8" duration="115.886" volume_left="0.271188" volume_right="0.214232" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="8" duration="64.2373" volume_left="0.22656" volume_right="0.14263" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="8" duration="74.2203" volume_left="0.0366516" volume_right="0.0353517" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="8" duration="60.5428" volume_left="0.0204154" volume_right="0.0166172" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="8" duration="54.5565" volume_left="0.0216699" volume_right="0.00393239" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="8" duration="61.2124" volume_left="0.211065" volume_right="0.239607" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="8" duration="123.28" volume_left="0.00217716" volume_right="0.0143106" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="8" duration="67.7147" volume_left="0.0293376" volume_right="0.018388" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="8" duration="129.76" volume_left="0.0158986" volume_right="0.0493319" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="8" duration="115.886" volume_left="0.271188" volume_right="0.0959138" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="8" duration="64.2373" volume_left="0.22656" volume_right="0.149736" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="8" duration="74.2203" volume_left="0.0366516" volume_right="0.00286219" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="8" duration="60.5428" volume_left="0.0204154" volume_right="0.0165785" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="8" duration="54.5565" volume_left="0.00149295" volume_right="0.0216699" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="8" duration="61.2124" volume_left="0.239607" volume_right="0.127392" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="8" duration="123.28" volume_left="0.0143106" volume_right="0.0116366" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="8" duration="67.7147" volume_left="0.0293376" volume_right="0.0230079" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="8" duration="52.6459" volume_left="0.0493319" volume_right="0.0351309" beatfreq="0" basefreq="0" state="0"/>
+</entries>
+</voice>
+<voice>
+<description>15Nature.wav</description>
+<id>9</id>
+<type>2</type>
+<voice_state>0</voice_state>
+<voice_hide>0</voice_hide>
+<voice_mute>0</voice_mute>
+<voice_mono>0</voice_mono>
+<entrycount>20</entrycount>
+<entries>
+<entry parent="9" duration="3.69027" volume_left="0.0198896" volume_right="0.182467" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="9" duration="49.3119" volume_left="0.23705" volume_right="0.280074" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="9" duration="64.6784" volume_left="0.0286595" volume_right="0.0213541" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="9" duration="69.8645" volume_left="0.0955158" volume_right="0.218796" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="9" duration="169.27" volume_left="0" volume_right="0" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="9" duration="55.6019" volume_left="0.215697" volume_right="0.0540622" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="9" duration="71.7967" volume_left="0.216237" volume_right="0.230819" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="9" duration="119.364" volume_left="0.0953148" volume_right="0.206771" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="9" duration="62.9359" volume_left="0.215904" volume_right="0.235991" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="9" duration="55.6348" volume_left="0.0185538" volume_right="0.0237143" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="9" duration="82.2642" volume_left="0.21947" volume_right="0.104188" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="9" duration="64.6784" volume_left="0.0260673" volume_right="0.0286595" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="9" duration="69.8645" volume_left="0.151119" volume_right="0.218796" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="9" duration="169.27" volume_left="0" volume_right="0" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="9" duration="55.6019" volume_left="0.215697" volume_right="0.170089" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="9" duration="71.7967" volume_left="0.0184201" volume_right="0.230819" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="9" duration="119.364" volume_left="0.127642" volume_right="0.206771" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="9" duration="62.9359" volume_left="0.0911478" volume_right="0.235991" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="9" duration="55.6348" volume_left="0.0237143" volume_right="0.00444591" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="9" duration="26.4416" volume_left="0.0650874" volume_right="0.21947" beatfreq="0" basefreq="0" state="0"/>
+</entries>
+</voice>
+<voice>
+<description>16Nature.wav</description>
+<id>10</id>
+<type>2</type>
+<voice_state>0</voice_state>
+<voice_hide>0</voice_hide>
+<voice_mute>0</voice_mute>
+<voice_mono>0</voice_mono>
+<entrycount>21</entrycount>
+<entries>
+<entry parent="10" duration="24.7561" volume_left="0.0461641" volume_right="0.280074" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="10" duration="77.7465" volume_left="0" volume_right="0" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="10" duration="101.079" volume_left="0.108405" volume_right="0.278013" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="10" duration="56.3753" volume_left="0.20577" volume_right="0.095964" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="10" duration="57.5823" volume_left="0" volume_right="0" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="10" duration="47.8555" volume_left="0.0143959" volume_right="0.012805" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="10" duration="148.028" volume_left="0.033865" volume_right="0.215137" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="10" duration="45.6258" volume_left="0.220784" volume_right="0.277274" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="10" duration="56.524" volume_left="0.27867" volume_right="0.280074" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="10" duration="58.9805" volume_left="0.0102824" volume_right="0.0202397" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="10" duration="179.36" volume_left="0.275194" volume_right="0.229962" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="10" duration="101.079" volume_left="0.13927" volume_right="0.278013" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="10" duration="56.3753" volume_left="0.184147" volume_right="0.20577" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="10" duration="57.5823" volume_left="0" volume_right="0" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="10" duration="47.8555" volume_left="0.0143959" volume_right="0.0129456" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="10" duration="148.028" volume_left="0.135677" volume_right="0.215137" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="10" duration="45.6258" volume_left="0.277274" volume_right="0.197768" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="10" duration="56.524" volume_left="0.280074" volume_right="0.0534969" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="10" duration="58.9805" volume_left="0.00499242" volume_right="0.0202397" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="10" duration="73.2894" volume_left="0.0453533" volume_right="0.275194" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="10" duration="0.74754" volume_left="0.045433" volume_right="0.280074" beatfreq="0" basefreq="0" state="0"/>
+</entries>
+</voice>
+<voice>
+<description>17Nature.wav</description>
+<id>11</id>
+<type>2</type>
+<voice_state>0</voice_state>
+<voice_hide>0</voice_hide>
+<voice_mute>0</voice_mute>
+<voice_mono>0</voice_mono>
+<entrycount>19</entrycount>
+<entries>
+<entry parent="11" duration="30.7859" volume_left="0.0104072" volume_right="0.0239302" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="11" duration="42.8787" volume_left="0.046286" volume_right="0.034581" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="11" duration="124.088" volume_left="0.21745" volume_right="0.0531564" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="11" duration="65.5056" volume_left="0.0224408" volume_right="0.0241412" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="11" duration="59.235" volume_left="0.270268" volume_right="0.0786617" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="11" duration="180.046" volume_left="0.208234" volume_right="0.052326" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="11" duration="121.058" volume_left="0.249249" volume_right="0.0204169" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="11" duration="58.4322" volume_left="0.0520383" volume_right="0.0336895" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="11" duration="100.166" volume_left="0.0190336" volume_right="0.280074" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="11" duration="42.8787" volume_left="0.0335818" volume_right="0.046286" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="11" duration="124.088" volume_left="0.21745" volume_right="0.0332208" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="11" duration="65.5056" volume_left="0.0159932" volume_right="0.0241412" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="11" duration="59.235" volume_left="0.270268" volume_right="0.0944314" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="11" duration="66.8831" volume_left="0.201575" volume_right="0.208234" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="11" duration="113.163" volume_left="0.163985" volume_right="0.179951" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="11" duration="121.058" volume_left="0.249249" volume_right="0.189536" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="11" duration="58.4322" volume_left="0.0520383" volume_right="0.0068066" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="11" duration="62.8301" volume_left="0.280074" volume_right="0.200078" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="11" duration="3.73124" volume_left="0.280074" volume_right="0.0423772" beatfreq="0" basefreq="0" state="0"/>
+</entries>
+</voice>
+<voice>
+<description>19Nature.wav</description>
+<id>12</id>
+<type>2</type>
+<voice_state>0</voice_state>
+<voice_hide>0</voice_hide>
+<voice_mute>0</voice_mute>
+<voice_mono>0</voice_mono>
+<entrycount>18</entrycount>
+<entries>
+<entry parent="12" duration="97.8078" volume_left="0.205909" volume_right="0.072142" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="12" duration="58.9099" volume_left="0.276915" volume_right="0.0241203" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="12" duration="61.8062" volume_left="0.280074" volume_right="0.184148" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="12" duration="98.5532" volume_left="0.0248948" volume_right="0.00245617" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="12" duration="66.5975" volume_left="0.154073" volume_right="0.216872" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="12" duration="67.4585" volume_left="0" volume_right="0" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="12" duration="65.4242" volume_left="0.270903" volume_right="0.280074" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="12" duration="185.899" volume_left="0.280074" volume_right="0.0193775" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="12" duration="146.762" volume_left="0" volume_right="0" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="12" duration="58.9099" volume_left="0.276915" volume_right="0.19997" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="12" duration="61.8062" volume_left="0.280074" volume_right="0.274733" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="12" duration="98.5532" volume_left="0.0232015" volume_right="0.0248948" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="12" duration="66.5975" volume_left="0.00942998" volume_right="0.216872" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="12" duration="67.4585" volume_left="0" volume_right="0" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="12" duration="65.4242" volume_left="0.111845" volume_right="0.280074" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="12" duration="115.534" volume_left="0.280074" volume_right="0.0525771" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="12" duration="70.3646" volume_left="0.180644" volume_right="0.132477" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="12" duration="46.1339" volume_left="0" volume_right="0" beatfreq="0" basefreq="0" state="0"/>
+</entries>
+</voice>
+<voice>
+<description>20Nature.wav</description>
+<id>13</id>
+<type>2</type>
+<voice_state>0</voice_state>
+<voice_hide>0</voice_hide>
+<voice_mute>0</voice_mute>
+<voice_mono>0</voice_mono>
+<entrycount>17</entrycount>
+<entries>
+<entry parent="13" duration="22.5162" volume_left="0.141743" volume_right="0.0484483" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="13" duration="190.095" volume_left="0.0375646" volume_right="0.0388867" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="13" duration="50.2056" volume_left="0.258921" volume_right="0.272671" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="13" duration="140.956" volume_left="0.0394903" volume_right="0.0256677" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="13" duration="54.2772" volume_left="0.0711939" volume_right="0.233375" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="13" duration="140.65" volume_left="0.0197299" volume_right="0.0245798" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="13" duration="110.896" volume_left="0.249218" volume_right="0.024127" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="13" duration="131.422" volume_left="0.217358" volume_right="0.0278268" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="13" duration="62.1295" volume_left="0.0551217" volume_right="0.18411" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="13" duration="60.8743" volume_left="0.0170452" volume_right="0.175977" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="13" duration="50.2056" volume_left="0.0354298" volume_right="0.272671" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="13" duration="140.956" volume_left="0.00520636" volume_right="0.0394903" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="13" duration="54.2772" volume_left="0.233375" volume_right="0.232" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="13" duration="140.65" volume_left="0.0245798" volume_right="0.00305074" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="13" duration="49.1608" volume_left="0.0160942" volume_right="0.249218" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="13" duration="61.7354" volume_left="0.181846" volume_right="0.0878687" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="13" duration="38.9935" volume_left="0.217358" volume_right="0.0403408" beatfreq="0" basefreq="0" state="0"/>
+</entries>
+</voice>
+<voice>
+<description>21Nature.wav</description>
+<id>14</id>
+<type>2</type>
+<voice_state>0</voice_state>
+<voice_hide>0</voice_hide>
+<voice_mute>0</voice_mute>
+<voice_mono>0</voice_mono>
+<entrycount>17</entrycount>
+<entries>
+<entry parent="14" duration="104.892" volume_left="0.07337" volume_right="0.0881228" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="14" duration="46.0854" volume_left="0.0824513" volume_right="0.261012" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="14" duration="48.9857" volume_left="0.012398" volume_right="0.0460698" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="14" duration="75.309" volume_left="0.107429" volume_right="0.280074" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="14" duration="163.223" volume_left="0" volume_right="0" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="14" duration="66.0604" volume_left="0.0355815" volume_right="0.0122229" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="14" duration="46.9328" volume_left="0.0267573" volume_right="0.040573" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="14" duration="304.815" volume_left="0.0567132" volume_right="0.238955" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="14" duration="46.0854" volume_left="0.261012" volume_right="0.230716" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="14" duration="48.9857" volume_left="0.0460698" volume_right="0.0161676" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="14" duration="75.309" volume_left="0.280074" volume_right="0.232736" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="14" duration="50.7765" volume_left="0" volume_right="0" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="14" duration="112.446" volume_left="0.102701" volume_right="0.192121" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="14" duration="66.0604" volume_left="0.0355815" volume_right="0.0212751" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="14" duration="46.9328" volume_left="0.040573" volume_right="0.0303941" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="14" duration="132.563" volume_left="0.238955" volume_right="0.0976088" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="14" duration="64.5382" volume_left="0.194952" volume_right="0.0526572" beatfreq="0" basefreq="0" state="0"/>
+</entries>
+</voice>
+<voice>
+<description>22Nature.wav</description>
+<id>15</id>
+<type>2</type>
+<voice_state>0</voice_state>
+<voice_hide>0</voice_hide>
+<voice_mute>0</voice_mute>
+<voice_mono>0</voice_mono>
+<entrycount>18</entrycount>
+<entries>
+<entry parent="15" duration="7.45671" volume_left="0" volume_right="0" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="15" duration="120.594" volume_left="0.0420923" volume_right="0.0317949" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="15" duration="54.5908" volume_left="0.0465069" volume_right="0.0127938" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="15" duration="55.2962" volume_left="0.222679" volume_right="0.267761" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="15" duration="62.4779" volume_left="0.00148878" volume_right="5.94295e-05" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="15" duration="152.507" volume_left="0.0284157" volume_right="0.00963861" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="15" duration="48.6972" volume_left="0.232139" volume_right="0.0185229" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="15" duration="61.7987" volume_left="0.0209052" volume_right="0.0377527" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="15" duration="62.2895" volume_left="0.204414" volume_right="0.0274905" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="15" duration="253.753" volume_left="0.280074" volume_right="0.231222" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="15" duration="54.5908" volume_left="0.0306137" volume_right="0.0465069" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="15" duration="55.2962" volume_left="0.267761" volume_right="0.2548" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="15" duration="62.4779" volume_left="0.00142771" volume_right="0.00148878" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="15" duration="152.507" volume_left="0.0284157" volume_right="0.0225622" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="15" duration="48.6972" volume_left="0.232139" volume_right="0.22979" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="15" duration="61.7987" volume_left="0.00638338" volume_right="0.0377527" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="15" duration="62.2895" volume_left="0.147036" volume_right="0.204414" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="15" duration="122.882" volume_left="0.280074" volume_right="0.274114" beatfreq="0" basefreq="0" state="0"/>
+</entries>
+</voice>
+<voice>
+<description>23Nature.wav</description>
+<id>16</id>
+<type>2</type>
+<voice_state>0</voice_state>
+<voice_hide>0</voice_hide>
+<voice_mute>0</voice_mute>
+<voice_mono>0</voice_mono>
+<entrycount>18</entrycount>
+<entries>
+<entry parent="16" duration="30.448" volume_left="0.0222116" volume_right="0.0489237" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="16" duration="170.735" volume_left="0.0773923" volume_right="0.269194" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="16" duration="58.3898" volume_left="0.216556" volume_right="0.124279" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="16" duration="50.9582" volume_left="0.205122" volume_right="0.0810437" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="16" duration="60.4034" volume_left="0.127463" volume_right="0.280074" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="16" duration="64.2746" volume_left="0.0447344" volume_right="0.033302" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="16" duration="126.735" volume_left="0.212194" volume_right="0.0335006" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="16" duration="68.5011" volume_left="0" volume_right="0" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="16" duration="151.413" volume_left="0.0200882" volume_right="0.0340623" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="16" duration="170.735" volume_left="0.239634" volume_right="0.269194" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="16" duration="58.3898" volume_left="0.120207" volume_right="0.216556" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="16" duration="50.9582" volume_left="0.205122" volume_right="0.0304754" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="16" duration="60.4034" volume_left="0.200659" volume_right="0.280074" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="16" duration="64.2746" volume_left="0.0447344" volume_right="0.0215066" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="16" duration="126.735" volume_left="0.212194" volume_right="0.0638374" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="16" duration="68.5011" volume_left="0" volume_right="0" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="16" duration="68.8268" volume_left="0.0187774" volume_right="0.0340623" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="16" duration="49.3183" volume_left="0.147053" volume_right="0.196536" beatfreq="0" basefreq="0" state="0"/>
+</entries>
+</voice>
+<voice>
+<description>28Nature.wav</description>
+<id>17</id>
+<type>2</type>
+<voice_state>0</voice_state>
+<voice_hide>0</voice_hide>
+<voice_mute>0</voice_mute>
+<voice_mono>0</voice_mono>
+<entrycount>20</entrycount>
+<entries>
+<entry parent="17" duration="38.5032" volume_left="0.15175" volume_right="0.108718" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="17" duration="58.5968" volume_left="0.0161993" volume_right="0.00597431" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="17" duration="136.106" volume_left="0.280074" volume_right="0.194851" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="17" duration="170.12" volume_left="0" volume_right="0" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="17" duration="58.265" volume_left="0.204574" volume_right="0.136406" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="17" duration="105.781" volume_left="0.0332475" volume_right="0.0392384" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="17" duration="52.8716" volume_left="0.0335222" volume_right="0.00857315" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="17" duration="51.6161" volume_left="0" volume_right="0" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="17" duration="51.5227" volume_left="0.0287055" volume_right="0.259454" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="17" duration="66.5313" volume_left="0.0462526" volume_right="0.0264085" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="17" duration="58.5968" volume_left="0.0158492" volume_right="0.0161993" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="17" duration="136.106" volume_left="0.267563" volume_right="0.280074" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="17" duration="62.2843" volume_left="0" volume_right="0" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="17" duration="107.836" volume_left="0.197422" volume_right="0.106785" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="17" duration="58.265" volume_left="0.171706" volume_right="0.204574" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="17" duration="105.781" volume_left="0.0392384" volume_right="0.0146309" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="17" duration="52.8716" volume_left="0.0335222" volume_right="0.0105283" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="17" duration="51.6161" volume_left="0" volume_right="0" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="17" duration="51.5227" volume_left="0.259454" volume_right="0.172407" beatfreq="0" basefreq="0" state="0"/>
+<entry parent="17" duration="25.2071" volume_left="0.0448501" volume_right="0.0462526" beatfreq="0" basefreq="0" state="0"/>
+</entries>
+</voice>
+</schedule>

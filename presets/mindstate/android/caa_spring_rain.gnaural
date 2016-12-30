@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<!-- See http://gnaural.sourceforge.net -->
+<schedule>
+<gnauralfile_version>1.20101006</gnauralfile_version>
+<gnaural_version>1.0.20110606</gnaural_version>
+<date>Mon Jun 20 12:08:00 2011
+</date>
+<title>Spring Rain</title>
+<schedule_description>Meditative rain, calming water sounds. Optional BB (unmute to use)</schedule_description>
+<author>Gnaural</author>
+<totaltime>60</totaltime>
+<voicecount>3</voicecount>
+<totalentrycount>8</totalentrycount>
+<loops>0</loops>
+<overallvolume_left>1</overallvolume_left>
+<overallvolume_right>1</overallvolume_right>
+<stereoswap>0</stereoswap>
+<graphview>3</graphview>
+<voice>
+<description>Sun shower</description>
+<id>0</id>
+<type>6</type>
+<voice_state>1</voice_state>
+<voice_hide>0</voice_hide>
+<voice_mute>0</voice_mute>
+<voice_mono>0</voice_mono>
+<entrycount>6</entrycount>
+<entries>
+<entry parent="0" duration="10" volume_left="0.5" volume_right="0.5" beatfreq="8" basefreq="0.1" state="0"/>
+<entry parent="0" duration="10" volume_left="0.5" volume_right="0.5" beatfreq="8" basefreq="0.0757812" state="1"/>
+<entry parent="0" duration="10" volume_left="0.5" volume_right="0.5" beatfreq="8" basefreq="0.1" state="0"/>
+<entry parent="0" duration="10" volume_left="0.5" volume_right="0.5" beatfreq="8" basefreq="0.0769531" state="1"/>
+<entry parent="0" duration="10" volume_left="0.5" volume_right="0.5" beatfreq="8" basefreq="0.1" state="0"/>
+<entry parent="0" duration="10" volume_left="0.5" volume_right="0.5" beatfreq="8" basefreq="0.0777344" state="1"/>
+</entries>
+</voice>
+<voice>
+<description>Babbling Brook</description>
+<id>1</id>
+<type>5</type>
+<voice_state>0</voice_state>
+<voice_hide>0</voice_hide>
+<voice_mute>0</voice_mute>
+<voice_mono>0</voice_mono>
+<entrycount>1</entrycount>
+<entries>
+<entry parent="1" duration="60" volume_left="0.5" volume_right="0.5" beatfreq="2" basefreq="0.00162815" state="0"/>
+</entries>
+</voice>
+<voice>
+<description>Meditation @ 3.9hz</description>
+<id>2</id>
+<type>0</type>
+<voice_state>0</voice_state>
+<voice_hide>1</voice_hide>
+<voice_mute>1</voice_mute>
+<voice_mono>0</voice_mono>
+<entrycount>1</entrycount>
+<entries>
+<entry parent="2" duration="60" volume_left="0.5" volume_right="0.5" beatfreq="3.9" basefreq="180.001" state="0"/>
+</entries>
+</voice>
+</schedule>

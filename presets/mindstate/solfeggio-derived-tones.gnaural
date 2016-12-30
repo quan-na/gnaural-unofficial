@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<!-- See http://gnaural.sourceforge.net -->
+<schedule>
+<gnauralfile_version>1.20101006</gnauralfile_version>
+<gnaural_version>1.0.20101115</gnaural_version>
+<date>Wed Jan  5 15:58:07 2011
+</date>
+<title>binaural experiment</title>
+<schedule_description>a binaural beat freq and base freq bassed on 3, 6, 9 solfeggio tones</schedule_description>
+<author>curtismacdonald.com</author>
+<totaltime>720</totaltime>
+<voicecount>1</voicecount>
+<totalentrycount>46</totalentrycount>
+<loops>1</loops>
+<overallvolume_left>1</overallvolume_left>
+<overallvolume_right>1</overallvolume_right>
+<stereoswap>0</stereoswap>
+<graphview>3</graphview>
+<voice>
+<description>a binaural experiment, beat freq and base freq bassed on 3, 6, 9 solfeggio tones</description>
+<id>0</id>
+<type>0</type>
+<voice_state>1</voice_state>
+<voice_hide>0</voice_hide>
+<voice_mute>0</voice_mute>
+<voice_mono>0</voice_mono>
+<entrycount>46</entrycount>
+<entries>
+<entry parent="0" duration="15" volume_left="0.85" volume_right="0.85" beatfreq="21" basefreq="318" state="0"/>
+<entry parent="0" duration="15" volume_left="0.85" volume_right="0.85" beatfreq="21" basefreq="318" state="0"/>
+<entry parent="0" duration="6" volume_left="0.85" volume_right="0.85" beatfreq="19" basefreq="297" state="0"/>
+<entry parent="0" duration="15" volume_left="0.85" volume_right="0.85" beatfreq="15" basefreq="285" state="0"/>
+<entry parent="0" duration="15" volume_left="0.85" volume_right="0.85" beatfreq="13" basefreq="273" state="0"/>
+<entry parent="0" duration="6" volume_left="0.85" volume_right="0.85" beatfreq="8" basefreq="261" state="0"/>
+<entry parent="0" duration="15" volume_left="0.85" volume_right="0.85" beatfreq="8" basefreq="258" state="0"/>
+<entry parent="0" duration="15" volume_left="0.85" volume_right="0.85" beatfreq="8" basefreq="246" state="0"/>
+<entry parent="0" duration="6" volume_left="0.85" volume_right="0.85" beatfreq="8" basefreq="234" state="0"/>
+<entry parent="0" duration="15" volume_left="0.85" volume_right="0.85" beatfreq="9" basefreq="222" state="0"/>
+<entry parent="0" duration="15" volume_left="0.85" volume_right="0.85" beatfreq="9" basefreq="222" state="0"/>
+<entry parent="0" duration="15" volume_left="0.85" volume_right="0.85" beatfreq="9" basefreq="222" state="0"/>
+<entry parent="0" duration="15" volume_left="0.85" volume_right="0.85" beatfreq="8" basefreq="219" state="0"/>
+<entry parent="0" duration="6" volume_left="0.85" volume_right="0.85" beatfreq="9" basefreq="198" state="0"/>
+<entry parent="0" duration="15" volume_left="0.85" volume_right="0.85" beatfreq="8" basefreq="186" state="0"/>
+<entry parent="0" duration="15" volume_left="0.85" volume_right="0.85" beatfreq="8" basefreq="174" state="0"/>
+<entry parent="0" duration="15" volume_left="0.85" volume_right="0.85" beatfreq="8" basefreq="162" state="0"/>
+<entry parent="0" duration="12" volume_left="0.85" volume_right="0.85" beatfreq="8" basefreq="159" state="0"/>
+<entry parent="0" duration="6" volume_left="0.85" volume_right="0.85" beatfreq="8" basefreq="147" state="0"/>
+<entry parent="0" duration="12" volume_left="0.85" volume_right="0.85" beatfreq="9" basefreq="135" state="0"/>
+<entry parent="0" duration="12" volume_left="0.85" volume_right="0.85" beatfreq="12" basefreq="123" state="0"/>
+<entry parent="0" duration="12" volume_left="0.85" volume_right="0.85" beatfreq="12" basefreq="111" state="0"/>
+<entry parent="0" duration="12" volume_left="0.85" volume_right="0.85" beatfreq="9" basefreq="111" state="0"/>
+<entry parent="0" duration="6" volume_left="0.85" volume_right="0.85" beatfreq="9" basefreq="111" state="0"/>
+<entry parent="0" duration="12" volume_left="0.85" volume_right="0.85" beatfreq="8" basefreq="123" state="0"/>
+<entry parent="0" duration="15" volume_left="0.85" volume_right="0.85" beatfreq="8" basefreq="135" state="0"/>
+<entry parent="0" duration="15" volume_left="0.85" volume_right="0.85" beatfreq="8" basefreq="147" state="0"/>
+<entry parent="0" duration="6" volume_left="0.85" volume_right="0.85" beatfreq="8" basefreq="159" state="0"/>
+<entry parent="0" duration="15" volume_left="0.85" volume_right="0.85" beatfreq="10" basefreq="162" state="0"/>
+<entry parent="0" duration="15" volume_left="0.85" volume_right="0.85" beatfreq="10" basefreq="174" state="0"/>
+<entry parent="0" duration="12" volume_left="0.85" volume_right="0.85" beatfreq="10" basefreq="186" state="0"/>
+<entry parent="0" duration="6" volume_left="0.85" volume_right="0.85" beatfreq="10" basefreq="219" state="0"/>
+<entry parent="0" duration="5" volume_left="0.85" volume_right="0.85" beatfreq="10" basefreq="222" state="0"/>
+<entry parent="0" duration="12" volume_left="0.85" volume_right="0.85" beatfreq="8" basefreq="222" state="0"/>
+<entry parent="0" duration="12" volume_left="0.85" volume_right="0.85" beatfreq="8" basefreq="222" state="0"/>
+<entry parent="0" duration="12" volume_left="0.85" volume_right="0.85" beatfreq="8" basefreq="234" state="0"/>
+<entry parent="0" duration="6" volume_left="0.85" volume_right="0.85" beatfreq="8" basefreq="246" state="0"/>
+<entry parent="0" duration="12" volume_left="0.85" volume_right="0.85" beatfreq="6" basefreq="258" state="0"/>
+<entry parent="0" duration="12" volume_left="0.85" volume_right="0.85" beatfreq="6" basefreq="261" state="0"/>
+<entry parent="0" duration="12" volume_left="0.85" volume_right="0.85" beatfreq="6" basefreq="273" state="0"/>
+<entry parent="0" duration="6" volume_left="0.85" volume_right="0.85" beatfreq="8" basefreq="285" state="0"/>
+<entry parent="0" duration="15" volume_left="0.85" volume_right="0.85" beatfreq="8" basefreq="285" state="0"/>
+<entry parent="0" duration="15" volume_left="0.85" volume_right="0.85" beatfreq="8" basefreq="297" state="0"/>
+<entry parent="0" duration="6" volume_left="0.85" volume_right="0.85" beatfreq="12" basefreq="297" state="0"/>
+<entry parent="0" duration="15" volume_left="0.85" volume_right="0.85" beatfreq="15" basefreq="318" state="0"/>
+<entry parent="0" duration="15" volume_left="0.85" volume_right="0.85" beatfreq="15" basefreq="318" state="0"/>
+</entries>
+</voice>
+</schedule>

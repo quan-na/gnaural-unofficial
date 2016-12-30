@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<!-- See http://gnaural.sourceforge.net -->
+<schedule>
+<gnauralfile_version>1.20101006</gnauralfile_version>
+<gnaural_version>1.0.20101115</gnaural_version>
+<date>Fri Oct  8 14:04:59 2010
+</date>
+<title>Alertness Preset</title>
+<schedule_description>For when you are mentally lethargic, and want to get the brain going. A relaxed but alert preset. Listen to the whole file for maximum effect.</schedule_description>
+<author>josh k</author>
+<totaltime>243.078</totaltime>
+<voicecount>2</voicecount>
+<totalentrycount>35</totalentrycount>
+<loops>1</loops>
+<overallvolume_left>1</overallvolume_left>
+<overallvolume_right>1</overallvolume_right>
+<stereoswap>0</stereoswap>
+<graphview>1</graphview>
+<voice>
+<description>BinauralBeat Tone Voice</description>
+<id>0</id>
+<type>0</type>
+<voice_state>1</voice_state>
+<voice_hide>0</voice_hide>
+<voice_mute>0</voice_mute>
+<voice_mono>0</voice_mono>
+<entrycount>34</entrycount>
+<entries>
+<entry parent="0" duration="8.81159" volume_left="0.85" volume_right="0.85" beatfreq="0" basefreq="100" state="1"/>
+<entry parent="0" duration="8.50774" volume_left="0.85" volume_right="0.85" beatfreq="5.37868" basefreq="100" state="1"/>
+<entry parent="0" duration="12.7082" volume_left="0.85" volume_right="0.85" beatfreq="8.35412" basefreq="100" state="1"/>
+<entry parent="0" duration="11.5996" volume_left="0.85" volume_right="0.85" beatfreq="11" basefreq="100" state="1"/>
+<entry parent="0" duration="7.90004" volume_left="0.85" volume_right="0.85" beatfreq="10.8146" basefreq="100" state="1"/>
+<entry parent="0" duration="9.6699" volume_left="0.85" volume_right="0.85" beatfreq="11.3296" basefreq="100" state="1"/>
+<entry parent="0" duration="6.86343" volume_left="0.85" volume_right="0.85" beatfreq="10.9985" basefreq="100" state="1"/>
+<entry parent="0" duration="6.86343" volume_left="0.85" volume_right="0.85" beatfreq="11.6392" basefreq="100" state="1"/>
+<entry parent="0" duration="5.14757" volume_left="0.85" volume_right="0.85" beatfreq="12.9205" basefreq="100" state="1"/>
+<entry parent="0" duration="3.43172" volume_left="0.85" volume_right="0.85" beatfreq="14.5348" basefreq="100" state="1"/>
+<entry parent="0" duration="5.14757" volume_left="0.85" volume_right="0.85" beatfreq="13.0586" basefreq="100" state="1"/>
+<entry parent="0" duration="5.14757" volume_left="0.85" volume_right="0.85" beatfreq="11.4688" basefreq="100" state="1"/>
+<entry parent="0" duration="8.16753" volume_left="0.85" volume_right="0.85" beatfreq="11" basefreq="100" state="1"/>
+<entry parent="0" duration="9.11543" volume_left="0.85" volume_right="0.85" beatfreq="10.8146" basefreq="100" state="1"/>
+<entry parent="0" duration="11.8867" volume_left="0.85" volume_right="0.85" beatfreq="11.1007" basefreq="100" state="1"/>
+<entry parent="0" duration="8.5793" volume_left="0.85" volume_right="0.85" beatfreq="11.0146" basefreq="100" state="1"/>
+<entry parent="0" duration="6.86344" volume_left="0.85" volume_right="0.85" beatfreq="11.923" basefreq="100" state="1"/>
+<entry parent="0" duration="3.43172" volume_left="0.85" volume_right="0.85" beatfreq="13.2857" basefreq="100" state="1"/>
+<entry parent="0" duration="3.43172" volume_left="0.85" volume_right="0.85" beatfreq="14.4212" basefreq="100" state="1"/>
+<entry parent="0" duration="3.43172" volume_left="0.85" volume_right="0.85" beatfreq="13.2857" basefreq="100" state="1"/>
+<entry parent="0" duration="6.86344" volume_left="0.85" volume_right="0.85" beatfreq="11.923" basefreq="100" state="1"/>
+<entry parent="0" duration="10.2046" volume_left="0.85" volume_right="0.85" beatfreq="11.0146" basefreq="100" state="1"/>
+<entry parent="0" duration="7.29235" volume_left="0.85" volume_right="0.85" beatfreq="10.8146" basefreq="100" state="1"/>
+<entry parent="0" duration="8.24096" volume_left="0.85" volume_right="0.85" beatfreq="11.3296" basefreq="100" state="1"/>
+<entry parent="0" duration="6.86344" volume_left="0.85" volume_right="0.85" beatfreq="11.0146" basefreq="100" state="1"/>
+<entry parent="0" duration="6.86344" volume_left="0.85" volume_right="0.85" beatfreq="11.6959" basefreq="100" state="1"/>
+<entry parent="0" duration="3.43172" volume_left="0.85" volume_right="0.85" beatfreq="13.5128" basefreq="100" state="1"/>
+<entry parent="0" duration="3.43172" volume_left="0.85" volume_right="0.85" beatfreq="14.6483" basefreq="100" state="1"/>
+<entry parent="0" duration="5.14758" volume_left="0.85" volume_right="0.85" beatfreq="13.3895" basefreq="100" state="1"/>
+<entry parent="0" duration="5.14758" volume_left="0.85" volume_right="0.85" beatfreq="11.5584" basefreq="100" state="1"/>
+<entry parent="0" duration="9.18538" volume_left="0.85" volume_right="0.85" beatfreq="11" basefreq="100" state="1"/>
+<entry parent="0" duration="10.3308" volume_left="0.85" volume_right="0.85" beatfreq="10.6429" basefreq="100" state="1"/>
+<entry parent="0" duration="12.3693" volume_left="0.85" volume_right="0.85" beatfreq="11.3296" basefreq="100" state="1"/>
+<entry parent="0" duration="1" volume_left="0.85" volume_right="0.85" beatfreq="11" basefreq="100" state="1"/>
+</entries>
+</voice>
+<voice>
+<description>Pink Noise Voice</description>
+<id>1</id>
+<type>1</type>
+<voice_state>0</voice_state>
+<voice_hide>0</voice_hide>
+<voice_mute>0</voice_mute>
+<voice_mono>0</voice_mono>
+<entrycount>1</entrycount>
+<entries>
+<entry parent="1" duration="243.078" volume_left="0.2" volume_right="0.2" beatfreq="0" basefreq="1" state="0"/>
+</entries>
+</voice>
+</schedule>

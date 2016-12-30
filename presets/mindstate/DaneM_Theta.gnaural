@@ -1,0 +1,114 @@
+<?xml version="1.0"?>
+<!-- See http://gnaural.sourceforge.net -->
+<schedule>
+<gnauralfile_version>1.20101006</gnauralfile_version>
+<gnaural_version>1.0.20101115</gnaural_version>
+<date>Fri Oct  8 14:02:47 2010
+</date>
+<title>theta</title>
+<schedule_description></schedule_description>
+<author>Dane M.</author>
+<totaltime>600.001</totaltime>
+<voicecount>7</voicecount>
+<totalentrycount>11</totalentrycount>
+<loops>1</loops>
+<overallvolume_left>1</overallvolume_left>
+<overallvolume_right>1</overallvolume_right>
+<stereoswap>0</stereoswap>
+<graphview>1</graphview>
+<voice>
+<description>Voice 0</description>
+<id>0</id>
+<type>0</type>
+<voice_state>0</voice_state>
+<voice_hide>1</voice_hide>
+<voice_mute>0</voice_mute>
+<voice_mono>0</voice_mono>
+<entrycount>3</entrycount>
+<entries>
+<entry parent="0" duration="316.406" volume_left="0.279349" volume_right="0.107215" beatfreq="40" basefreq="120" state="0"/>
+<entry parent="0" duration="283.125" volume_left="0.279349" volume_right="0.262627" beatfreq="40" basefreq="120" state="0"/>
+<entry parent="0" duration="0.46875" volume_left="0.152461" volume_right="0.279349" beatfreq="40" basefreq="120" state="0"/>
+</entries>
+</voice>
+<voice>
+<description>2</description>
+<id>1</id>
+<type>0</type>
+<voice_state>0</voice_state>
+<voice_hide>1</voice_hide>
+<voice_mute>0</voice_mute>
+<voice_mono>0</voice_mono>
+<entrycount>1</entrycount>
+<entries>
+<entry parent="1" duration="600" volume_left="0.469489" volume_right="0.425392" beatfreq="50" basefreq="150" state="0"/>
+</entries>
+</voice>
+<voice>
+<description>3</description>
+<id>2</id>
+<type>0</type>
+<voice_state>0</voice_state>
+<voice_hide>1</voice_hide>
+<voice_mute>0</voice_mute>
+<voice_mono>0</voice_mono>
+<entrycount>3</entrycount>
+<entries>
+<entry parent="2" duration="315.938" volume_left="0.368314" volume_right="0.65787" beatfreq="60" basefreq="180" state="0"/>
+<entry parent="2" duration="283.594" volume_left="0.65787" volume_right="0.616174" beatfreq="60" basefreq="180" state="0"/>
+<entry parent="2" duration="0.46875" volume_left="0.639193" volume_right="0.243074" beatfreq="60" basefreq="180" state="0"/>
+</entries>
+</voice>
+<voice>
+<description>4</description>
+<id>3</id>
+<type>0</type>
+<voice_state>0</voice_state>
+<voice_hide>1</voice_hide>
+<voice_mute>0</voice_mute>
+<voice_mono>0</voice_mono>
+<entrycount>1</entrycount>
+<entries>
+<entry parent="3" duration="600" volume_left="0.1" volume_right="0.0965932" beatfreq="7" basefreq="210" state="0"/>
+</entries>
+</voice>
+<voice>
+<description>5</description>
+<id>4</id>
+<type>0</type>
+<voice_state>0</voice_state>
+<voice_hide>1</voice_hide>
+<voice_mute>1</voice_mute>
+<voice_mono>0</voice_mono>
+<entrycount>1</entrycount>
+<entries>
+<entry parent="4" duration="600" volume_left="0.1" volume_right="0.1" beatfreq="14" basefreq="420" state="0"/>
+</entries>
+</voice>
+<voice>
+<description>6</description>
+<id>5</id>
+<type>0</type>
+<voice_state>0</voice_state>
+<voice_hide>0</voice_hide>
+<voice_mute>0</voice_mute>
+<voice_mono>0</voice_mono>
+<entrycount>1</entrycount>
+<entries>
+<entry parent="5" duration="600" volume_left="0.1" volume_right="0.0965932" beatfreq="6" basefreq="240" state="0"/>
+</entries>
+</voice>
+<voice>
+<description>j</description>
+<id>6</id>
+<type>1</type>
+<voice_state>1</voice_state>
+<voice_hide>0</voice_hide>
+<voice_mute>0</voice_mute>
+<voice_mono>0</voice_mono>
+<entrycount>1</entrycount>
+<entries>
+<entry parent="6" duration="600" volume_left="0.039916" volume_right="0.039916" beatfreq="60.1261" basefreq="403.235" state="1"/>
+</entries>
+</voice>
+</schedule>

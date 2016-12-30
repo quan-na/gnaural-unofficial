@@ -1,0 +1,123 @@
+<?xml version="1.0"?>
+<!-- See http://gnaural.sourceforge.net -->
+<schedule>
+<gnauralfile_version>1.20101006</gnauralfile_version>
+<gnaural_version>1.0.20110606</gnaural_version>
+<date>Wed Jun 10 08:18:58 2015
+</date>
+<title>8-Voice Binaural Beat Example</title>
+<schedule_description>Example of simple 8 Binaural Beat voices playing simultaneously, all with a 220Hz Base Frequency. Repeats forever.</schedule_description>
+<author>Gnaural</author>
+<totaltime>1</totaltime>
+<voicecount>8</voicecount>
+<totalentrycount>8</totalentrycount>
+<loops>0</loops>
+<overallvolume_left>1</overallvolume_left>
+<overallvolume_right>1</overallvolume_right>
+<stereoswap>0</stereoswap>
+<graphview>3</graphview>
+<voice>
+<description>1hz</description>
+<id>0</id>
+<type>0</type>
+<voice_state>1</voice_state>
+<voice_hide>0</voice_hide>
+<voice_mute>0</voice_mute>
+<voice_mono>0</voice_mono>
+<entrycount>1</entrycount>
+<entries>
+<entry parent="0" duration="1" volume_left="0.1" volume_right="0.1" beatfreq="1" basefreq="220" state="1"/>
+</entries>
+</voice>
+<voice>
+<description>2hz</description>
+<id>1</id>
+<type>0</type>
+<voice_state>0</voice_state>
+<voice_hide>0</voice_hide>
+<voice_mute>0</voice_mute>
+<voice_mono>0</voice_mono>
+<entrycount>1</entrycount>
+<entries>
+<entry parent="1" duration="1" volume_left="0.1" volume_right="0.1" beatfreq="2" basefreq="220" state="1"/>
+</entries>
+</voice>
+<voice>
+<description>4hz</description>
+<id>2</id>
+<type>0</type>
+<voice_state>0</voice_state>
+<voice_hide>0</voice_hide>
+<voice_mute>0</voice_mute>
+<voice_mono>0</voice_mono>
+<entrycount>1</entrycount>
+<entries>
+<entry parent="2" duration="1" volume_left="0.1" volume_right="0.1" beatfreq="4" basefreq="220" state="1"/>
+</entries>
+</voice>
+<voice>
+<description>6hz</description>
+<id>3</id>
+<type>0</type>
+<voice_state>0</voice_state>
+<voice_hide>0</voice_hide>
+<voice_mute>0</voice_mute>
+<voice_mono>0</voice_mono>
+<entrycount>1</entrycount>
+<entries>
+<entry parent="3" duration="1" volume_left="0.1" volume_right="0.1" beatfreq="6" basefreq="220" state="1"/>
+</entries>
+</voice>
+<voice>
+<description>8hz</description>
+<id>4</id>
+<type>0</type>
+<voice_state>0</voice_state>
+<voice_hide>0</voice_hide>
+<voice_mute>0</voice_mute>
+<voice_mono>0</voice_mono>
+<entrycount>1</entrycount>
+<entries>
+<entry parent="4" duration="1" volume_left="0.1" volume_right="0.1" beatfreq="8" basefreq="220" state="1"/>
+</entries>
+</voice>
+<voice>
+<description>10hz</description>
+<id>5</id>
+<type>0</type>
+<voice_state>0</voice_state>
+<voice_hide>0</voice_hide>
+<voice_mute>0</voice_mute>
+<voice_mono>0</voice_mono>
+<entrycount>1</entrycount>
+<entries>
+<entry parent="5" duration="1" volume_left="0.1" volume_right="0.1" beatfreq="10" basefreq="220" state="1"/>
+</entries>
+</voice>
+<voice>
+<description>12hz</description>
+<id>6</id>
+<type>0</type>
+<voice_state>0</voice_state>
+<voice_hide>0</voice_hide>
+<voice_mute>0</voice_mute>
+<voice_mono>0</voice_mono>
+<entrycount>1</entrycount>
+<entries>
+<entry parent="6" duration="1" volume_left="0.1" volume_right="0.1" beatfreq="12" basefreq="220" state="1"/>
+</entries>
+</voice>
+<voice>
+<description>14hz</description>
+<id>7</id>
+<type>0</type>
+<voice_state>0</voice_state>
+<voice_hide>0</voice_hide>
+<voice_mute>0</voice_mute>
+<voice_mono>0</voice_mono>
+<entrycount>1</entrycount>
+<entries>
+<entry parent="7" duration="1" volume_left="0.1" volume_right="0.1" beatfreq="14" basefreq="220" state="1"/>
+</entries>
+</voice>
+</schedule>

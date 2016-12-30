@@ -1,0 +1,187 @@
+<?xml version="1.0"?>
+<!-- See http://gnaural.sourceforge.net -->
+<schedule>
+<gnauralfile_version>1.20101006</gnauralfile_version>
+<gnaural_version>1.0.20101115</gnaural_version>
+<date>Fri Oct  8 15:13:21 2010
+</date>
+<title>Waves: Not too meditative</title>
+<schedule_description>Quick simulation of crashing waves</schedule_description>
+<author>Gnaural</author>
+<totaltime>40</totaltime>
+<voicecount>4</voicecount>
+<totalentrycount>120</totalentrycount>
+<loops>10</loops>
+<overallvolume_left>0.839667</overallvolume_left>
+<overallvolume_right>0.839667</overallvolume_right>
+<stereoswap>1</stereoswap>
+<graphview>7</graphview>
+<voice>
+<description>Voice 0</description>
+<id>0</id>
+<type>1</type>
+<voice_state>0</voice_state>
+<voice_hide>0</voice_hide>
+<voice_mute>0</voice_mute>
+<voice_mono>0</voice_mono>
+<entrycount>28</entrycount>
+<entries>
+<entry parent="0" duration="3.7432" volume_left="0.05" volume_right="0.05" beatfreq="1" basefreq="40" state="1"/>
+<entry parent="0" duration="1.43634" volume_left="0.065" volume_right="0.0589333" beatfreq="1" basefreq="40" state="1"/>
+<entry parent="0" duration="1.37046" volume_left="0.0816667" volume_right="0.0435556" beatfreq="1" basefreq="40" state="1"/>
+<entry parent="0" duration="1.1105" volume_left="0.0930405" volume_right="0.028918" beatfreq="1" basefreq="40" state="1"/>
+<entry parent="0" duration="1.1895" volume_left="0.115" volume_right="0.0357432" beatfreq="1" basefreq="40" state="1"/>
+<entry parent="0" duration="1.55" volume_left="0.136824" volume_right="0.0552968" beatfreq="1" basefreq="40" state="1"/>
+<entry parent="0" duration="0.3" volume_left="0.190878" volume_right="0.142211" beatfreq="1" basefreq="40" state="1"/>
+<entry parent="0" duration="0.85" volume_left="0.123311" volume_right="0.0965066" beatfreq="1" basefreq="40" state="1"/>
+<entry parent="0" duration="1.7253" volume_left="0.052365" volume_right="0.0465597" beatfreq="1" basefreq="40" state="1"/>
+<entry parent="0" duration="1.78455" volume_left="0.045" volume_right="0.0340112" beatfreq="1" basefreq="40" state="1"/>
+<entry parent="0" duration="1.82807" volume_left="0.0483333" volume_right="0.0365306" beatfreq="1" basefreq="40" state="1"/>
+<entry parent="0" duration="1.51208" volume_left="0.0494652" volume_right="0.055" beatfreq="1" basefreq="40" state="1"/>
+<entry parent="0" duration="1.45" volume_left="0.0344176" volume_right="0.070946" beatfreq="1" basefreq="40" state="1"/>
+<entry parent="0" duration="1.95" volume_left="0.022519" volume_right="0.116554" beatfreq="1" basefreq="40" state="1"/>
+<entry parent="0" duration="0.15" volume_left="0.0525445" volume_right="0.27196" beatfreq="1" basefreq="40" state="1"/>
+<entry parent="0" duration="0.65" volume_left="0.0401583" volume_right="0.189189" beatfreq="1" basefreq="40" state="1"/>
+<entry parent="0" duration="1.1" volume_left="0.0319642" volume_right="0.10473" beatfreq="1" basefreq="40" state="1"/>
+<entry parent="0" duration="2.05" volume_left="0.019458" volume_right="0.0388514" beatfreq="1" basefreq="40" state="1"/>
+<entry parent="0" duration="1.95" volume_left="0.0285446" volume_right="0.0287162" beatfreq="1" basefreq="40" state="1"/>
+<entry parent="0" duration="2.1" volume_left="0.0464773" volume_right="0.0287162" beatfreq="1" basefreq="40" state="1"/>
+<entry parent="0" duration="0.9" volume_left="0.0456081" volume_right="0.0406301" beatfreq="1" basefreq="40" state="1"/>
+<entry parent="0" duration="0.681937" volume_left="0.0861485" volume_right="0.0690085" beatfreq="1" basefreq="40" state="1"/>
+<entry parent="0" duration="0.78346" volume_left="0.105172" volume_right="0.0842474" beatfreq="1" basefreq="40" state="1"/>
+<entry parent="0" duration="0.534603" volume_left="0.163793" volume_right="0.131205" beatfreq="1" basefreq="40" state="1"/>
+<entry parent="0" duration="0.25" volume_left="0.234797" volume_right="0.14122" beatfreq="1" basefreq="40" state="1"/>
+<entry parent="0" duration="0.65" volume_left="0.16723" volume_right="0.096409" beatfreq="1" basefreq="40" state="1"/>
+<entry parent="0" duration="1.2" volume_left="0.0945945" volume_right="0.0483986" beatfreq="1" basefreq="40" state="1"/>
+<entry parent="0" duration="5.2" volume_left="0.0591215" volume_right="0.0231693" beatfreq="1" basefreq="40" state="1"/>
+</entries>
+</voice>
+<voice>
+<description>Voice 1</description>
+<id>1</id>
+<type>1</type>
+<voice_state>0</voice_state>
+<voice_hide>0</voice_hide>
+<voice_mute>0</voice_mute>
+<voice_mono>0</voice_mono>
+<entrycount>40</entrycount>
+<entries>
+<entry parent="1" duration="3.64" volume_left="0.05" volume_right="0.05" beatfreq="1" basefreq="40" state="1"/>
+<entry parent="1" duration="0.84" volume_left="0.0159737" volume_right="0.0591215" beatfreq="1" basefreq="40" state="1"/>
+<entry parent="1" duration="0.455" volume_left="0.0173162" volume_right="0.0945945" beatfreq="1" basefreq="40" state="1"/>
+<entry parent="1" duration="0.175" volume_left="0.0222474" volume_right="0.117061" beatfreq="1" basefreq="40" state="1"/>
+<entry parent="1" duration="1.4" volume_left="0.0440919" volume_right="0.164358" beatfreq="1" basefreq="40" state="1"/>
+<entry parent="1" duration="0.63" volume_left="0.0681152" volume_right="0.0861485" beatfreq="1" basefreq="40" state="1"/>
+<entry parent="1" duration="1.47" volume_left="0.0486089" volume_right="0.0456081" beatfreq="1" basefreq="40" state="1"/>
+<entry parent="1" duration="1.365" volume_left="0.0536187" volume_right="0.0287162" beatfreq="1" basefreq="40" state="1"/>
+<entry parent="1" duration="1.435" volume_left="0.0287162" volume_right="0.023387" beatfreq="1" basefreq="40" state="1"/>
+<entry parent="1" duration="0.77" volume_left="0.0388514" volume_right="0.0294162" beatfreq="1" basefreq="40" state="1"/>
+<entry parent="1" duration="0.455" volume_left="0.10473" volume_right="0.0663366" beatfreq="1" basefreq="40" state="1"/>
+<entry parent="1" duration="0.105" volume_left="0.132432" volume_right="0.0742005" beatfreq="1" basefreq="40" state="1"/>
+<entry parent="1" duration="1.365" volume_left="0.190372" volume_right="0.103451" beatfreq="1" basefreq="40" state="1"/>
+<entry parent="1" duration="1.015" volume_left="0.0815878" volume_right="0.0286151" beatfreq="1" basefreq="40" state="1"/>
+<entry parent="1" duration="0.78" volume_left="0.070946" volume_right="0.0391372" beatfreq="1" basefreq="40" state="1"/>
+<entry parent="1" duration="3.64" volume_left="0.05" volume_right="0.05" beatfreq="1" basefreq="40" state="1"/>
+<entry parent="1" duration="0.375" volume_left="0.00977686" volume_right="0.0591215" beatfreq="1" basefreq="40" state="1"/>
+<entry parent="1" duration="0.465" volume_left="0.031283" volume_right="0.052365" beatfreq="1" basefreq="40" state="1"/>
+<entry parent="1" duration="0.13" volume_left="0.0337773" volume_right="0.0945945" beatfreq="1" basefreq="40" state="1"/>
+<entry parent="1" duration="0.21" volume_left="0.0228501" volume_right="0.0863177" beatfreq="1" basefreq="40" state="1"/>
+<entry parent="1" duration="0.115" volume_left="0.0259139" volume_right="0.133615" beatfreq="1" basefreq="40" state="1"/>
+<entry parent="1" duration="0.175" volume_left="0.0242136" volume_right="0.117061" beatfreq="1" basefreq="40" state="1"/>
+<entry parent="1" duration="0.795" volume_left="0.04094" volume_right="0.164358" beatfreq="1" basefreq="40" state="1"/>
+<entry parent="1" duration="0.605" volume_left="0.0408266" volume_right="0.0957772" beatfreq="1" basefreq="40" state="1"/>
+<entry parent="1" duration="0.63" volume_left="0.0681152" volume_right="0.0861485" beatfreq="1" basefreq="40" state="1"/>
+<entry parent="1" duration="0.375" volume_left="0.0486089" volume_right="0.0456081" beatfreq="1" basefreq="40" state="1"/>
+<entry parent="1" duration="1.095" volume_left="0.0347416" volume_right="0.103041" beatfreq="1" basefreq="40" state="1"/>
+<entry parent="1" duration="1.365" volume_left="0.0536187" volume_right="0.0287162" beatfreq="1" basefreq="40" state="1"/>
+<entry parent="1" duration="1.435" volume_left="0.0287162" volume_right="0.023387" beatfreq="1" basefreq="40" state="1"/>
+<entry parent="1" duration="0.77" volume_left="0.0388514" volume_right="0.022682" beatfreq="1" basefreq="40" state="1"/>
+<entry parent="1" duration="0.455" volume_left="0.10473" volume_right="0.0481835" beatfreq="1" basefreq="40" state="1"/>
+<entry parent="1" duration="0.105" volume_left="0.132432" volume_right="0.0512456" beatfreq="1" basefreq="40" state="1"/>
+<entry parent="1" duration="1.365" volume_left="0.190372" volume_right="0.0704533" beatfreq="1" basefreq="40" state="1"/>
+<entry parent="1" duration="1.015" volume_left="0.0815878" volume_right="0.0133854" beatfreq="1" basefreq="40" state="1"/>
+<entry parent="1" duration="4.795" volume_left="0.070946" volume_right="0.0268399" beatfreq="1" basefreq="40" state="1"/>
+<entry parent="1" duration="0.595" volume_left="0.0411115" volume_right="0.052365" beatfreq="1" basefreq="40" state="1"/>
+<entry parent="1" duration="0.21" volume_left="0.0181018" volume_right="0.0863177" beatfreq="1" basefreq="40" state="1"/>
+<entry parent="1" duration="1.085" volume_left="0.0196842" volume_right="0.133615" beatfreq="1" basefreq="40" state="1"/>
+<entry parent="1" duration="1.61" volume_left="0.00197449" volume_right="0.0957772" beatfreq="1" basefreq="40" state="1"/>
+<entry parent="1" duration="0.685" volume_left="0.0174017" volume_right="0.103041" beatfreq="1" basefreq="40" state="1"/>
+</entries>
+</voice>
+<voice>
+<description>Voice 2</description>
+<id>2</id>
+<type>1</type>
+<voice_state>0</voice_state>
+<voice_hide>0</voice_hide>
+<voice_mute>0</voice_mute>
+<voice_mono>0</voice_mono>
+<entrycount>40</entrycount>
+<entries>
+<entry parent="2" duration="3.64" volume_left="0.015" volume_right="0.015" beatfreq="1" basefreq="40" state="1"/>
+<entry parent="2" duration="0.84" volume_left="0.00269112" volume_right="0.0177365" beatfreq="1" basefreq="40" state="1"/>
+<entry parent="2" duration="0.455" volume_left="0.00568619" volume_right="0.0283784" beatfreq="1" basefreq="40" state="1"/>
+<entry parent="2" duration="0.175" volume_left="0.0707965" volume_right="0.050169" beatfreq="1" basefreq="40" state="1"/>
+<entry parent="2" duration="1.4" volume_left="0.114841" volume_right="0.070439" beatfreq="1" basefreq="40" state="1"/>
+<entry parent="2" duration="0.63" volume_left="0.102173" volume_right="0.0421923" beatfreq="1" basefreq="40" state="1"/>
+<entry parent="2" duration="1.47" volume_left="0.0729135" volume_right="0.0253486" beatfreq="1" basefreq="40" state="1"/>
+<entry parent="2" duration="1.365" volume_left="0.080428" volume_right="0.0214833" beatfreq="1" basefreq="40" state="1"/>
+<entry parent="2" duration="1.435" volume_left="0.00861485" volume_right="0.0070161" beatfreq="1" basefreq="40" state="1"/>
+<entry parent="2" duration="0.77" volume_left="0.0116554" volume_right="0.0068046" beatfreq="1" basefreq="40" state="1"/>
+<entry parent="2" duration="0.455" volume_left="0.0314189" volume_right="0.0144551" beatfreq="1" basefreq="40" state="1"/>
+<entry parent="2" duration="0.105" volume_left="0.056757" volume_right="0.0219624" beatfreq="1" basefreq="40" state="1"/>
+<entry parent="2" duration="1.365" volume_left="0.081588" volume_right="0.0301943" beatfreq="1" basefreq="40" state="1"/>
+<entry parent="2" duration="1.015" volume_left="0.0349662" volume_right="0.010865" beatfreq="1" basefreq="40" state="1"/>
+<entry parent="2" duration="0.78" volume_left="0.0212838" volume_right="0.00805195" beatfreq="1" basefreq="40" state="1"/>
+<entry parent="2" duration="3.64" volume_left="0.015" volume_right="0.015" beatfreq="1" basefreq="40" state="1"/>
+<entry parent="2" duration="0.375" volume_left="0.0152055" volume_right="0.0177365" beatfreq="1" basefreq="40" state="1"/>
+<entry parent="2" duration="0.465" volume_left="0.0469246" volume_right="0.0282227" beatfreq="1" basefreq="40" state="1"/>
+<entry parent="2" duration="0.13" volume_left="0.0371731" volume_right="0.0283784" beatfreq="1" basefreq="40" state="1"/>
+<entry parent="2" duration="0.21" volume_left="0.063137" volume_right="0.0538298" beatfreq="1" basefreq="40" state="1"/>
+<entry parent="2" duration="0.115" volume_left="0.149475" volume_right="0.0767235" beatfreq="1" basefreq="40" state="1"/>
+<entry parent="2" duration="0.175" volume_left="0.0707965" volume_right="0.0690481" beatfreq="1" basefreq="40" state="1"/>
+<entry parent="2" duration="0.795" volume_left="0.114841" volume_right="0.101063" beatfreq="1" basefreq="40" state="1"/>
+<entry parent="2" duration="0.605" volume_left="0.0350539" volume_right="0.0410473" beatfreq="1" basefreq="40" state="1"/>
+<entry parent="2" duration="0.63" volume_left="0.102173" volume_right="0.0530907" beatfreq="1" basefreq="40" state="1"/>
+<entry parent="2" duration="0.375" volume_left="0.0729135" volume_right="0.033126" beatfreq="1" basefreq="40" state="1"/>
+<entry parent="2" duration="1.095" volume_left="0.0363056" volume_right="0.0309122" beatfreq="1" basefreq="40" state="1"/>
+<entry parent="2" duration="1.365" volume_left="0.080428" volume_right="0.0300623" beatfreq="1" basefreq="40" state="1"/>
+<entry parent="2" duration="1.435" volume_left="0.00861485" volume_right="0.0070161" beatfreq="1" basefreq="40" state="1"/>
+<entry parent="2" duration="0.77" volume_left="0.0116554" volume_right="0.0068046" beatfreq="1" basefreq="40" state="1"/>
+<entry parent="2" duration="0.455" volume_left="0.0314189" volume_right="0.0144551" beatfreq="1" basefreq="40" state="1"/>
+<entry parent="2" duration="0.105" volume_left="0.056757" volume_right="0.0227192" beatfreq="1" basefreq="40" state="1"/>
+<entry parent="2" duration="1.365" volume_left="0.081588" volume_right="0.0312821" beatfreq="1" basefreq="40" state="1"/>
+<entry parent="2" duration="1.015" volume_left="0.0349662" volume_right="0.0113312" beatfreq="1" basefreq="40" state="1"/>
+<entry parent="2" duration="4.795" volume_left="0.0212838" volume_right="0.00833573" beatfreq="1" basefreq="40" state="1"/>
+<entry parent="2" duration="0.595" volume_left="0.0469246" volume_right="0.0157095" beatfreq="1" basefreq="40" state="1"/>
+<entry parent="2" duration="0.21" volume_left="0.063137" volume_right="0.0369933" beatfreq="1" basefreq="40" state="1"/>
+<entry parent="2" duration="1.085" volume_left="0.0767235" volume_right="0.0572635" beatfreq="1" basefreq="40" state="1"/>
+<entry parent="2" duration="1.61" volume_left="1.07783e-09" volume_right="0.0410473" beatfreq="1" basefreq="40" state="1"/>
+<entry parent="2" duration="0.685" volume_left="0.000789173" volume_right="0.0309122" beatfreq="1" basefreq="40" state="1"/>
+</entries>
+</voice>
+<voice>
+<description>Voice 4</description>
+<id>3</id>
+<type>1</type>
+<voice_state>0</voice_state>
+<voice_hide>0</voice_hide>
+<voice_mute>0</voice_mute>
+<voice_mono>0</voice_mono>
+<entrycount>12</entrycount>
+<entries>
+<entry parent="3" duration="4.00435" volume_left="0.05" volume_right="0.0472414" beatfreq="0" basefreq="110" state="1"/>
+<entry parent="3" duration="4.26551" volume_left="0.0373596" volume_right="0.05" beatfreq="0" basefreq="110" state="1"/>
+<entry parent="3" duration="4.22198" volume_left="0.0544897" volume_right="0.122414" beatfreq="0" basefreq="110" state="1"/>
+<entry parent="3" duration="2.43743" volume_left="0.0050321" volume_right="0.0568966" beatfreq="0" basefreq="110" state="1"/>
+<entry parent="3" duration="2.69859" volume_left="0.0168966" volume_right="0.05" beatfreq="0" basefreq="110" state="1"/>
+<entry parent="3" duration="3.26442" volume_left="0.00570987" volume_right="0.0862069" beatfreq="0" basefreq="110" state="1"/>
+<entry parent="3" duration="4.70076" volume_left="0.0362069" volume_right="0.0154816" beatfreq="0" basefreq="110" state="1"/>
+<entry parent="3" duration="4.65724" volume_left="0.0197811" volume_right="0.0327586" beatfreq="0" basefreq="110" state="1"/>
+<entry parent="3" duration="3.7432" volume_left="0.0223864" volume_right="0.0672414" beatfreq="0" basefreq="110" state="1"/>
+<entry parent="3" duration="2.13275" volume_left="0.0134026" volume_right="0.0810345" beatfreq="0" basefreq="110" state="1"/>
+<entry parent="3" duration="2.43743" volume_left="0.05" volume_right="0.03" beatfreq="0" basefreq="110" state="1"/>
+<entry parent="3" duration="1.43634" volume_left="0.0810345" volume_right="0.0486207" beatfreq="0" basefreq="110" state="1"/>
+</entries>
+</voice>
+</schedule>

@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<!-- See http://gnaural.sourceforge.net -->
+<schedule>
+<gnauralfile_version>1.20101006</gnauralfile_version>
+<gnaural_version>1.0.20110606</gnaural_version>
+<date>Mon Sep 12 12:23:48 2011
+</date>
+<title>10_ISO_BIN</title>
+<schedule_description></schedule_description>
+<author></author>
+<totaltime>1200.02</totaltime>
+<voicecount>4</voicecount>
+<totalentrycount>10</totalentrycount>
+<loops>1</loops>
+<overallvolume_left>1</overallvolume_left>
+<overallvolume_right>1</overallvolume_right>
+<stereoswap>0</stereoswap>
+<graphview>7</graphview>
+<voice>
+<description>Voice 0</description>
+<id>0</id>
+<type>0</type>
+<voice_state>0</voice_state>
+<voice_hide>1</voice_hide>
+<voice_mute>0</voice_mute>
+<voice_mono>0</voice_mono>
+<entrycount>3</entrycount>
+<entries>
+<entry parent="0" duration="59.7659" volume_left="0" volume_right="0" beatfreq="10" basefreq="120" state="0"/>
+<entry parent="0" duration="1085.16" volume_left="0.0691489" volume_right="0.0691489" beatfreq="10" basefreq="120" state="0"/>
+<entry parent="0" duration="55.0882" volume_left="0.0691489" volume_right="0.0691489" beatfreq="10" basefreq="120" state="0"/>
+</entries>
+</voice>
+<voice>
+<description></description>
+<id>1</id>
+<type>6</type>
+<voice_state>0</voice_state>
+<voice_hide>0</voice_hide>
+<voice_mute>0</voice_mute>
+<voice_mono>0</voice_mono>
+<entrycount>3</entrycount>
+<entries>
+<entry parent="1" duration="57.4225" volume_left="0" volume_right="0" beatfreq="8" basefreq="0.1" state="0"/>
+<entry parent="1" duration="1084" volume_left="0.26009" volume_right="0.26009" beatfreq="10" basefreq="0.1" state="0"/>
+<entry parent="1" duration="58.5944" volume_left="0.264574" volume_right="0.264574" beatfreq="10" basefreq="0.1" state="1"/>
+</entries>
+</voice>
+<voice>
+<description></description>
+<id>2</id>
+<type>3</type>
+<voice_state>0</voice_state>
+<voice_hide>1</voice_hide>
+<voice_mute>0</voice_mute>
+<voice_mono>0</voice_mono>
+<entrycount>3</entrycount>
+<entries>
+<entry parent="2" duration="59.7661" volume_left="0.00531915" volume_right="0.00531915" beatfreq="10" basefreq="120" state="0"/>
+<entry parent="2" duration="1079.31" volume_left="0.253968" volume_right="0.253968" beatfreq="10" basefreq="140" state="0"/>
+<entry parent="2" duration="60.938" volume_left="0.253968" volume_right="0.253968" beatfreq="10" basefreq="140" state="0"/>
+</entries>
+</voice>
+<voice>
+<description>gong_10.ogg</description>
+<id>3</id>
+<type>2</type>
+<voice_state>1</voice_state>
+<voice_hide>0</voice_hide>
+<voice_mute>0</voice_mute>
+<voice_mono>0</voice_mono>
+<entrycount>1</entrycount>
+<entries>
+<entry parent="3" duration="1200.01" volume_left="0.493274" volume_right="0.493274" beatfreq="0" basefreq="0" state="0"/>
+</entries>
+</voice>
+</schedule>

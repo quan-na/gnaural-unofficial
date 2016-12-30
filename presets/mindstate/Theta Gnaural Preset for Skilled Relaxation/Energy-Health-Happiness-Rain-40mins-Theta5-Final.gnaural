@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<!-- See http://gnaural.sourceforge.net -->
+<schedule>
+<gnauralfile_version>1.20101006</gnauralfile_version>
+<gnaural_version>1.0.20151224</gnaural_version>
+<date>20160331 09:01:39</date>
+<title>Energy-health-happiness</title>
+<schedule_description>same</schedule_description>
+<author>AD</author>
+<totaltime>2403.0</totaltime>
+<voicecount>3</voicecount>
+<totalentrycount>12</totalentrycount>
+<loops>1</loops>
+<overallvolume_left>1.0</overallvolume_left>
+<overallvolume_right>1.0</overallvolume_right>
+<stereoswap>0</stereoswap>
+<graphview>1</graphview>
+<voice>
+<description>energy-mantra-louder.wav</description>
+<id>0</id>
+<type>2</type>
+<voice_state>0</voice_state>
+<voice_hide>1</voice_hide>
+<voice_mute>0</voice_mute>
+<voice_mono>0</voice_mono>
+<entrycount>7</entrycount>
+<entries>
+<entry parent="0" duration="0.0" volume_left="0.0" volume_right="0.0" beatfreq="0.0" basefreq="0.0" state="0"/>
+<entry parent="0" duration="834.0" volume_left="0.0" volume_right="0.0" beatfreq="0.0" basefreq="0.0" state="0"/>
+<entry parent="0" duration="135.0" volume_left="0.0" volume_right="0.0" beatfreq="0.0" basefreq="0.0" state="0"/>
+<entry parent="0" duration="1062.0" volume_left="0.8" volume_right="0.8" beatfreq="0.0" basefreq="0.0" state="0"/>
+<entry parent="0" duration="138.0" volume_left="0.8" volume_right="0.8" beatfreq="0.0" basefreq="0.0" state="0"/>
+<entry parent="0" duration="93.0" volume_left="0.788889" volume_right="0.788889" beatfreq="0.0" basefreq="0.0" state="0"/>
+<entry parent="0" duration="141.0" volume_left="0.788889" volume_right="0.788889" beatfreq="0.0" basefreq="0.0" state="0"/>
+</entries>
+</voice>
+<voice>
+<description>null</description>
+<id>1</id>
+<type>0</type>
+<voice_state>0</voice_state>
+<voice_hide>0</voice_hide>
+<voice_mute>0</voice_mute>
+<voice_mono>0</voice_mono>
+<entrycount>4</entrycount>
+<entries>
+<entry parent="1" duration="2316.0" volume_left="0.5" volume_right="0.5" beatfreq="5.91939" basefreq="180.0" state="0"/>
+<entry parent="1" duration="33.0" volume_left="0.5" volume_right="0.5" beatfreq="5.83104" basefreq="180.0" state="0"/>
+<entry parent="1" duration="44.9888" volume_left="0.5" volume_right="0.5" beatfreq="13.7759" basefreq="180.0" state="0"/>
+<entry parent="1" duration="9.01125" volume_left="0.5" volume_right="0.5" beatfreq="13.6746" basefreq="180.0" state="0"/>
+</entries>
+</voice>
+<voice>
+<description>null</description>
+<id>2</id>
+<type>6</type>
+<voice_state>0</voice_state>
+<voice_hide>1</voice_hide>
+<voice_mute>0</voice_mute>
+<voice_mono>0</voice_mono>
+<entrycount>1</entrycount>
+<entries>
+<entry parent="2" duration="2403.0" volume_left="0.168142" volume_right="0.168142" beatfreq="8.0" basefreq="0.1" state="0"/>
+</entries>
+</voice>
+</schedule>

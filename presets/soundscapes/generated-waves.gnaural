@@ -1,0 +1,445 @@
+<?xml version="1.0"?>
+<!-- See http://gnaural.sourceforge.net -->
+<schedule>
+<gnauralfile_version>1.20101006</gnauralfile_version>
+<gnaural_version>1.0.20101115</gnaural_version>
+<date>Fri Oct  8 15:10:00 2010
+</date>
+<title>Waves (now with more sine!)</title>
+<schedule_description>Hopefully more realistic</schedule_description>
+<author>Chris Evans</author>
+<totaltime>60.3</totaltime>
+<voicecount>2</voicecount>
+<totalentrycount>402</totalentrycount>
+<loops>1</loops>
+<overallvolume_left>1</overallvolume_left>
+<overallvolume_right>1</overallvolume_right>
+<stereoswap>0</stereoswap>
+<graphview>7</graphview>
+<voice>
+<description>Pink noise with sine wave based volume</description>
+<id>0</id>
+<type>1</type>
+<voice_state>1</voice_state>
+<voice_hide>0</voice_hide>
+<voice_mute>0</voice_mute>
+<voice_mono>0</voice_mono>
+<entrycount>201</entrycount>
+<entries>
+<entry parent="0" duration="0.3" volume_left="0.4" volume_right="0.4" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.437476" volume_right="0.437476" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.473625" volume_right="0.473625" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.507165" volume_right="0.507165" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.536909" volume_right="0.536909" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.561803" volume_right="0.561803" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.580965" volume_right="0.580965" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.593717" volume_right="0.593717" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.599605" volume_right="0.599605" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.598423" volume_right="0.598423" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.590211" volume_right="0.590211" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.575261" volume_right="0.575261" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.554103" volume_right="0.554103" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.527485" volume_right="0.527485" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.496351" volume_right="0.496351" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.461803" volume_right="0.461803" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.425067" volume_right="0.425067" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.387442" volume_right="0.387442" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.350262" volume_right="0.350262" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.314844" volume_right="0.314844" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.282443" volume_right="0.282443" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.254206" volume_right="0.254206" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.231134" volume_right="0.231134" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.214045" volume_right="0.214045" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.203543" volume_right="0.203543" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.2" volume_right="0.2" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.203543" volume_right="0.203543" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.214045" volume_right="0.214045" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.231134" volume_right="0.231134" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.254206" volume_right="0.254206" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.282443" volume_right="0.282443" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.314844" volume_right="0.314844" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.350262" volume_right="0.350262" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.387442" volume_right="0.387442" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.425067" volume_right="0.425067" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.461803" volume_right="0.461803" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.496351" volume_right="0.496351" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.527485" volume_right="0.527485" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.554103" volume_right="0.554103" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.575261" volume_right="0.575261" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.590211" volume_right="0.590211" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.598423" volume_right="0.598423" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.599605" volume_right="0.599605" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.593717" volume_right="0.593717" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.580965" volume_right="0.580965" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.561803" volume_right="0.561803" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.536909" volume_right="0.536909" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.507165" volume_right="0.507165" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.473625" volume_right="0.473625" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.437476" volume_right="0.437476" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.4" volume_right="0.4" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.362524" volume_right="0.362524" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.326375" volume_right="0.326375" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.292835" volume_right="0.292835" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.263091" volume_right="0.263091" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.238197" volume_right="0.238197" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.219035" volume_right="0.219035" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.206283" volume_right="0.206283" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.200395" volume_right="0.200395" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.201577" volume_right="0.201577" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.209789" volume_right="0.209789" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.224739" volume_right="0.224739" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.245897" volume_right="0.245897" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.272515" volume_right="0.272515" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.303649" volume_right="0.303649" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.338197" volume_right="0.338197" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.374933" volume_right="0.374933" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.412558" volume_right="0.412558" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.449738" volume_right="0.449738" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.485156" volume_right="0.485156" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.517557" volume_right="0.517557" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.545794" volume_right="0.545794" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.568866" volume_right="0.568866" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.585955" volume_right="0.585955" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.596457" volume_right="0.596457" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.6" volume_right="0.6" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.596457" volume_right="0.596457" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.585955" volume_right="0.585955" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.568866" volume_right="0.568866" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.545794" volume_right="0.545794" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.517557" volume_right="0.517557" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.485156" volume_right="0.485156" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.449738" volume_right="0.449738" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.412558" volume_right="0.412558" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.374933" volume_right="0.374933" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.338197" volume_right="0.338197" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.303649" volume_right="0.303649" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.272515" volume_right="0.272515" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.245897" volume_right="0.245897" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.224739" volume_right="0.224739" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.209789" volume_right="0.209789" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.201577" volume_right="0.201577" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.200395" volume_right="0.200395" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.206283" volume_right="0.206283" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.219035" volume_right="0.219035" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.238197" volume_right="0.238197" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.263091" volume_right="0.263091" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.292835" volume_right="0.292835" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.326375" volume_right="0.326375" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.362524" volume_right="0.362524" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.4" volume_right="0.4" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.437476" volume_right="0.437476" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.473625" volume_right="0.473625" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.507165" volume_right="0.507165" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.536909" volume_right="0.536909" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.561803" volume_right="0.561803" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.580965" volume_right="0.580965" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.593717" volume_right="0.593717" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.599605" volume_right="0.599605" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.598423" volume_right="0.598423" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.590211" volume_right="0.590211" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.575261" volume_right="0.575261" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.554103" volume_right="0.554103" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.527485" volume_right="0.527485" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.496351" volume_right="0.496351" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.461803" volume_right="0.461803" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.425067" volume_right="0.425067" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.387442" volume_right="0.387442" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.350262" volume_right="0.350262" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.314844" volume_right="0.314844" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.282443" volume_right="0.282443" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.254206" volume_right="0.254206" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.231134" volume_right="0.231134" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.214045" volume_right="0.214045" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.203543" volume_right="0.203543" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.2" volume_right="0.2" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.203543" volume_right="0.203543" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.214045" volume_right="0.214045" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.231134" volume_right="0.231134" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.254206" volume_right="0.254206" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.282443" volume_right="0.282443" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.314844" volume_right="0.314844" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.350262" volume_right="0.350262" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.387442" volume_right="0.387442" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.425067" volume_right="0.425067" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.461803" volume_right="0.461803" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.496351" volume_right="0.496351" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.527485" volume_right="0.527485" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.554103" volume_right="0.554103" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.575261" volume_right="0.575261" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.590211" volume_right="0.590211" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.598423" volume_right="0.598423" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.599605" volume_right="0.599605" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.593717" volume_right="0.593717" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.580965" volume_right="0.580965" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.561803" volume_right="0.561803" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.536909" volume_right="0.536909" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.507165" volume_right="0.507165" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.473625" volume_right="0.473625" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.437476" volume_right="0.437476" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.4" volume_right="0.4" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.362524" volume_right="0.362524" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.326375" volume_right="0.326375" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.292835" volume_right="0.292835" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.263091" volume_right="0.263091" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.238197" volume_right="0.238197" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.219035" volume_right="0.219035" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.206283" volume_right="0.206283" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.200395" volume_right="0.200395" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.201577" volume_right="0.201577" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.209789" volume_right="0.209789" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.224739" volume_right="0.224739" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.245897" volume_right="0.245897" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.272515" volume_right="0.272515" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.303649" volume_right="0.303649" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.338197" volume_right="0.338197" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.374933" volume_right="0.374933" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.412558" volume_right="0.412558" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.449738" volume_right="0.449738" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.485156" volume_right="0.485156" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.517557" volume_right="0.517557" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.545794" volume_right="0.545794" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.568866" volume_right="0.568866" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.585955" volume_right="0.585955" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.596457" volume_right="0.596457" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.6" volume_right="0.6" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.596457" volume_right="0.596457" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.585955" volume_right="0.585955" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.568866" volume_right="0.568866" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.545794" volume_right="0.545794" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.517557" volume_right="0.517557" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.485156" volume_right="0.485156" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.449738" volume_right="0.449738" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.412558" volume_right="0.412558" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.374933" volume_right="0.374933" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.338197" volume_right="0.338197" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.303649" volume_right="0.303649" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.272515" volume_right="0.272515" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.245897" volume_right="0.245897" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.224739" volume_right="0.224739" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.209789" volume_right="0.209789" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.201577" volume_right="0.201577" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.200395" volume_right="0.200395" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.206283" volume_right="0.206283" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.219035" volume_right="0.219035" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.238197" volume_right="0.238197" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.263091" volume_right="0.263091" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.292835" volume_right="0.292835" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.326375" volume_right="0.326375" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.362524" volume_right="0.362524" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="0" duration="0.3" volume_left="0.4" volume_right="0.4" beatfreq="0" basefreq="100" state="0"/>
+</entries>
+</voice>
+<voice>
+<description>Pink noise with cubic spline based volume</description>
+<id>1</id>
+<type>1</type>
+<voice_state>0</voice_state>
+<voice_hide>0</voice_hide>
+<voice_mute>0</voice_mute>
+<voice_mono>0</voice_mono>
+<entrycount>201</entrycount>
+<entries>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0.122916" volume_right="0.122916" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0.288685" volume_right="0.288685" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0.466077" volume_right="0.466077" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0.622893" volume_right="0.622893" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0.727007" volume_right="0.727007" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0.763443" volume_right="0.763443" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0.743815" volume_right="0.743815" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0.682023" volume_right="0.682023" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0.591966" volume_right="0.591966" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0.487546" volume_right="0.487546" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0.382662" volume_right="0.382662" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0.290438" volume_right="0.290438" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0.214983" volume_right="0.214983" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0.154585" volume_right="0.154585" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0.107438" volume_right="0.107438" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0.0717354" volume_right="0.0717354" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0.0456698" volume_right="0.0456698" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0.0274343" volume_right="0.0274343" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0.015222" volume_right="0.015222" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0.00722598" volume_right="0.00722598" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0.00163918" volume_right="0.00163918" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0.0531827" volume_right="0.0531827" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0.164703" volume_right="0.164703" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0.291165" volume_right="0.291165" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0.410649" volume_right="0.410649" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0.5" volume_right="0.5" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0.541581" volume_right="0.541581" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0.539806" volume_right="0.539806" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0.504605" volume_right="0.504605" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0.445905" volume_right="0.445905" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0.373636" volume_right="0.373636" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0.297726" volume_right="0.297726" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0.228035" volume_right="0.228035" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0.170266" volume_right="0.170266" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0.123683" volume_right="0.123683" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0.0869949" volume_right="0.0869949" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0.0589117" volume_right="0.0589117" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0.0381422" volume_right="0.0381422" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0.023396" volume_right="0.023396" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0.0133822" volume_right="0.0133822" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0.00681029" volume_right="0.00681029" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0.00238949" volume_right="0.00238949" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+<entry parent="1" duration="0.3" volume_left="0" volume_right="0" beatfreq="0" basefreq="100" state="0"/>
+</entries>
+</voice>
+</schedule>

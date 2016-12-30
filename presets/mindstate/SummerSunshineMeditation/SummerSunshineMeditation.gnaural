@@ -1,0 +1,812 @@
+<?xml version="1.0"?>
+<!-- See http://gnaural.sourceforge.net -->
+<schedule>
+<gnauralfile_version>1.20101006</gnauralfile_version>
+<gnaural_version>1.0.20101115</gnaural_version>
+<date>Mon Oct 25 09:32:31 2010
+</date>
+<title>Summer Day</title>
+<schedule_description>Meditation in a summer woods</schedule_description>
+<author>Gnaural</author>
+<totaltime>1500</totaltime>
+<voicecount>22</voicecount>
+<totalentrycount>529</totalentrycount>
+<loops>1</loops>
+<overallvolume_left>1</overallvolume_left>
+<overallvolume_right>1</overallvolume_right>
+<stereoswap>0</stereoswap>
+<graphview>1</graphview>
+<voice>
+<description>Meditative voice</description>
+<id>0</id>
+<type>0</type>
+<voice_state>1</voice_state>
+<voice_hide>0</voice_hide>
+<voice_mute>0</voice_mute>
+<voice_mono>0</voice_mono>
+<entrycount>36</entrycount>
+<entries>
+<entry parent="0" duration="9" volume_left="0.808193" volume_right="0.760166" beatfreq="0" basefreq="262.35" state="0"/>
+<entry parent="0" duration="3.9717" volume_left="0.630828" volume_right="0.819418" beatfreq="12" basefreq="262.1" state="0"/>
+<entry parent="0" duration="4.71698" volume_left="0.819418" volume_right="0.709208" beatfreq="11.3045" basefreq="261.873" state="0"/>
+<entry parent="0" duration="3.53774" volume_left="0.819418" volume_right="0.553597" beatfreq="10.6817" basefreq="261.788" state="0"/>
+<entry parent="0" duration="3.10549" volume_left="0.421201" volume_right="0.819418" beatfreq="10.0381" basefreq="261.655" state="0"/>
+<entry parent="0" duration="3.96998" volume_left="0.819418" volume_right="0.525915" beatfreq="9.42188" basefreq="261.601" state="0"/>
+<entry parent="0" duration="5.89623" volume_left="0.819418" volume_right="0.814095" beatfreq="8.81315" basefreq="261.445" state="0"/>
+<entry parent="0" duration="4.71698" volume_left="0.819418" volume_right="0.520691" beatfreq="8.12803" basefreq="261.212" state="0"/>
+<entry parent="0" duration="7.354" volume_left="0.819418" volume_right="0.622733" beatfreq="7.46367" basefreq="261.063" state="0"/>
+<entry parent="0" duration="12.6932" volume_left="0.790277" volume_right="0.819418" beatfreq="6.82217" basefreq="260.83" state="0"/>
+<entry parent="0" duration="17.4425" volume_left="0.718696" volume_right="0.819418" beatfreq="6.09343" basefreq="260.193" state="0"/>
+<entry parent="0" duration="26.1896" volume_left="0.819418" volume_right="0.551223" beatfreq="5.43404" basefreq="259.14" state="0"/>
+<entry parent="0" duration="29.7048" volume_left="0.769489" volume_right="0.819418" beatfreq="4.97232" basefreq="258.409" state="0"/>
+<entry parent="0" duration="39.8707" volume_left="0.819418" volume_right="0.743832" beatfreq="4.59466" basefreq="257.45" state="0"/>
+<entry parent="0" duration="59.1312" volume_left="0.819418" volume_right="0.447442" beatfreq="4.2872" basefreq="256.069" state="0"/>
+<entry parent="0" duration="76.4821" volume_left="0.717184" volume_right="0.819418" beatfreq="4.05899" basefreq="254.07" state="0"/>
+<entry parent="0" duration="90.5462" volume_left="0.666085" volume_right="0.824996" beatfreq="4.03806" basefreq="251.55" state="0"/>
+<entry parent="0" duration="99.3123" volume_left="0.830643" volume_right="0.674861" beatfreq="4" basefreq="249" state="0"/>
+<entry parent="0" duration="80.6877" volume_left="0.830643" volume_right="0.808893" beatfreq="3.95502" basefreq="245.943" state="0"/>
+<entry parent="0" duration="6" volume_left="0.830643" volume_right="0.679721" beatfreq="3.9" basefreq="243.94" state="0"/>
+<entry parent="0" duration="6" volume_left="0.818307" volume_right="0.830643" beatfreq="7" basefreq="243.77" state="0"/>
+<entry parent="0" duration="92.4539" volume_left="0.830643" volume_right="0.777198" beatfreq="3.9" basefreq="243.6" state="0"/>
+<entry parent="0" duration="83.7264" volume_left="0.754336" volume_right="0.833525" beatfreq="3.93426" basefreq="240.998" state="0"/>
+<entry parent="0" duration="95.5189" volume_left="0.671173" volume_right="0.836136" beatfreq="4.0173" basefreq="238.642" state="0"/>
+<entry parent="0" duration="88.3008" volume_left="0.627906" volume_right="0.839408" beatfreq="4.07958" basefreq="235.689" state="0"/>
+<entry parent="0" duration="6" volume_left="0.841867" volume_right="0.552536" beatfreq="4.1699" basefreq="233.47" state="0"/>
+<entry parent="0" duration="6" volume_left="0.599581" volume_right="0.841867" beatfreq="7" basefreq="233.3" state="0"/>
+<entry parent="0" duration="58.8973" volume_left="0.841867" volume_right="0.831147" beatfreq="4.1699" basefreq="233.13" state="0"/>
+<entry parent="0" duration="57.783" volume_left="0.775363" volume_right="0.844798" beatfreq="4.07958" basefreq="231.806" state="0"/>
+<entry parent="0" duration="63.3196" volume_left="0.648422" volume_right="0.847673" beatfreq="4.0173" basefreq="230.508" state="0"/>
+<entry parent="0" duration="112.388" volume_left="0.526091" volume_right="0.853092" beatfreq="3.93772" basefreq="228.06" state="0"/>
+<entry parent="0" duration="67.612" volume_left="0.618101" volume_right="0.860689" beatfreq="3.93426" basefreq="224.629" state="0"/>
+<entry parent="0" duration="6" volume_left="0.857727" volume_right="0.864317" beatfreq="3.9" basefreq="222.99" state="0"/>
+<entry parent="0" duration="6" volume_left="0.471024" volume_right="0.864317" beatfreq="7" basefreq="222.82" state="0"/>
+<entry parent="0" duration="160.156" volume_left="0.864317" volume_right="0.5628" beatfreq="3.9" basefreq="222.66" state="0"/>
+<entry parent="0" duration="5.5151" volume_left="0.579254" volume_right="0.814375" beatfreq="3.86965" basefreq="221.686" state="0"/>
+</entries>
+</voice>
+<voice>
+<description>00Jungle.wav</description>
+<id>1</id>
+<type>2</type>
+<voice_state>0</voice_state>
+<voice_hide>0</voice_hide>
+<voice_mute>0</voice_mute>
+<voice_mono>0</voice_mono>
+<entrycount>15</entrycount>
+<entries>
+<entry parent="1" duration="13.7199" volume_left="0.0855692" volume_right="0.0652919" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="1" duration="46.3008" volume_left="0.0339843" volume_right="0.129369" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="1" duration="266.268" volume_left="0.152006" volume_right="0.0356616" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="1" duration="57.9932" volume_left="0.0135876" volume_right="0.0135793" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="1" duration="133.599" volume_left="0.111991" volume_right="0.0580786" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="1" duration="122.334" volume_left="0.0306472" volume_right="0.152006" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="1" duration="124.915" volume_left="0.116284" volume_right="0.0982931" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="1" duration="46.3008" volume_left="0.129369" volume_right="0.0213289" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="1" duration="266.268" volume_left="0.0923228" volume_right="0.152006" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="1" duration="57.9932" volume_left="0.010065" volume_right="0.0135876" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="1" duration="133.599" volume_left="0.0608721" volume_right="0.111991" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="1" duration="59.3137" volume_left="0.152006" volume_right="0.110333" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="1" duration="63.0198" volume_left="0.0221376" volume_right="0.032662" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="1" duration="108.376" volume_left="0.116284" volume_right="0.075111" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="1" duration="1.66978e-13" volume_left="0.097775" volume_right="0.152006" beatfreq="0" basefreq="0" state="1"/>
+</entries>
+</voice>
+<voice>
+<description>01Jungle.wav</description>
+<id>2</id>
+<type>2</type>
+<voice_state>0</voice_state>
+<voice_hide>0</voice_hide>
+<voice_mute>0</voice_mute>
+<voice_mono>0</voice_mono>
+<entrycount>16</entrycount>
+<entries>
+<entry parent="2" duration="20.7366" volume_left="0.0908572" volume_right="0.148317" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="2" duration="55.4128" volume_left="0.126899" volume_right="0.107218" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="2" duration="59.1791" volume_left="0.216179" volume_right="0.518159" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="2" duration="139.597" volume_left="0.00153872" volume_right="0.015691" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="2" duration="62.3596" volume_left="0.00828462" volume_right="0.00793939" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="2" duration="74.382" volume_left="0.101665" volume_right="0.0210173" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="2" duration="69.0118" volume_left="0.0630281" volume_right="0.0617013" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="2" duration="346.881" volume_left="0.423756" volume_right="0.355599" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="2" duration="59.1791" volume_left="0.345865" volume_right="0.518159" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="2" duration="139.597" volume_left="0.015691" volume_right="0.00342581" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="2" duration="62.3596" volume_left="0.00828462" volume_right="0.00555748" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="2" duration="74.382" volume_left="0.101665" volume_right="0.0569309" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="2" duration="69.0118" volume_left="0.0294826" volume_right="0.0630281" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="2" duration="143.376" volume_left="0.423756" volume_right="0.310241" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="2" duration="120.295" volume_left="0.388388" volume_right="0.24315" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="2" duration="4.24" volume_left="0.397796" volume_right="0.585648" beatfreq="0" basefreq="0" state="1"/>
+</entries>
+</voice>
+<voice>
+<description>03Jungle.wav</description>
+<id>3</id>
+<type>2</type>
+<voice_state>0</voice_state>
+<voice_hide>0</voice_hide>
+<voice_mute>0</voice_mute>
+<voice_mono>0</voice_mono>
+<entrycount>19</entrycount>
+<entries>
+<entry parent="3" duration="101.878" volume_left="0.0241008" volume_right="0.00696115" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="3" duration="47.4845" volume_left="0.27574" volume_right="0.313047" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="3" duration="63.2803" volume_left="0.31438" volume_right="0.0538182" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="3" duration="57.2173" volume_left="0.00826956" volume_right="0.0468031" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="3" duration="65.9813" volume_left="0.0165511" volume_right="0.00503854" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="3" duration="64.6417" volume_left="0.290279" volume_right="0.277536" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="3" duration="69.2176" volume_left="0.0174093" volume_right="0.0113234" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="3" duration="46.6721" volume_left="0.0304388" volume_right="0.0237692" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="3" duration="141.817" volume_left="0.0382995" volume_right="0.0508555" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="3" duration="195.099" volume_left="0.0142552" volume_right="0.0218171" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="3" duration="47.4845" volume_left="0.0344374" volume_right="0.313047" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="3" duration="63.2803" volume_left="0.31438" volume_right="0.128161" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="3" duration="57.2173" volume_left="0.0468031" volume_right="0.0282603" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="3" duration="65.9813" volume_left="0.0165318" volume_right="0.0165511" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="3" duration="64.6417" volume_left="0.137894" volume_right="0.290279" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="3" duration="69.2176" volume_left="0.0174093" volume_right="0.00912606" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="3" duration="46.6721" volume_left="0.0168519" volume_right="0.0304388" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="3" duration="141.817" volume_left="0.0199405" volume_right="0.0508555" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="3" duration="90.3998" volume_left="0.0144982" volume_right="0.0218171" beatfreq="0" basefreq="0" state="1"/>
+</entries>
+</voice>
+<voice>
+<description>04Jungle.wav</description>
+<id>4</id>
+<type>2</type>
+<voice_state>0</voice_state>
+<voice_hide>0</voice_hide>
+<voice_mute>0</voice_mute>
+<voice_mono>0</voice_mono>
+<entrycount>21</entrycount>
+<entries>
+<entry parent="4" duration="21.7062" volume_left="0.0805575" volume_right="0.0194784" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="4" duration="104.085" volume_left="0.216129" volume_right="0.0319981" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="4" duration="50.1101" volume_left="0.0270799" volume_right="0.0166863" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="4" duration="58.5226" volume_left="0.00805582" volume_right="0.00854103" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="4" duration="54.9983" volume_left="0.153518" volume_right="0.200292" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="4" duration="47.9267" volume_left="0.0711779" volume_right="0.0889903" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="4" duration="135.616" volume_left="0.212098" volume_right="0.141323" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="4" duration="45.3567" volume_left="0.0118245" volume_right="0.00276251" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="4" duration="67.2083" volume_left="0.00102567" volume_right="0.00382037" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="4" duration="67.0317" volume_left="0.00194565" volume_right="0.0291138" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="4" duration="167.702" volume_left="0.0116178" volume_right="0.0133138" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="4" duration="56.9386" volume_left="0.142144" volume_right="0.10702" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="4" duration="50.1101" volume_left="0.0270799" volume_right="0.00459123" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="4" duration="58.5226" volume_left="0.00854103" volume_right="0.00624682" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="4" duration="48.8714" volume_left="0.200292" volume_right="0.0881392" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="4" duration="54.0532" volume_left="0.149656" volume_right="0.00761263" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="4" duration="135.616" volume_left="0.212098" volume_right="0.197154" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="4" duration="45.3567" volume_left="0.0115628" volume_right="0.0118245" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="4" duration="67.2083" volume_left="0.000828543" volume_right="0.00382037" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="4" duration="67.0317" volume_left="0.0291138" volume_right="0.00910144" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="4" duration="96.0282" volume_left="0.00149039" volume_right="0.0133138" beatfreq="0" basefreq="0" state="1"/>
+</entries>
+</voice>
+<voice>
+<description>05Jungle.wav</description>
+<id>5</id>
+<type>2</type>
+<voice_state>0</voice_state>
+<voice_hide>0</voice_hide>
+<voice_mute>0</voice_mute>
+<voice_mono>0</voice_mono>
+<entrycount>13</entrycount>
+<entries>
+<entry parent="5" duration="94.0956" volume_left="0.243346" volume_right="0.0542134" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="5" duration="69.9165" volume_left="0.0883458" volume_right="0.23247" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="5" duration="128.164" volume_left="0.0503125" volume_right="0.065427" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="5" duration="126.998" volume_left="0.311593" volume_right="0.128509" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="5" duration="43.8762" volume_left="0.0573367" volume_right="0.0354903" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="5" duration="122.398" volume_left="0.0397091" volume_right="0.0657896" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="5" duration="62.1865" volume_left="0.150306" volume_right="0.312189" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="5" duration="197.872" volume_left="0.0471512" volume_right="0.0689239" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="5" duration="198.08" volume_left="0.23247" volume_right="0.157926" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="5" duration="126.998" volume_left="0.311593" volume_right="0.043418" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="5" duration="166.274" volume_left="0.0460669" volume_right="0.0573367" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="5" duration="128.062" volume_left="0.312189" volume_right="0.242293" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="5" duration="35.0796" volume_left="0.221202" volume_right="0.157548" beatfreq="0" basefreq="0" state="1"/>
+</entries>
+</voice>
+<voice>
+<description>06Jungle.wav</description>
+<id>6</id>
+<type>2</type>
+<voice_state>0</voice_state>
+<voice_hide>0</voice_hide>
+<voice_mute>0</voice_mute>
+<voice_mono>0</voice_mono>
+<entrycount>13</entrycount>
+<entries>
+<entry parent="6" duration="17.9419" volume_left="0.160804" volume_right="0.31438" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="6" duration="53.3234" volume_left="0.278047" volume_right="0.278653" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="6" duration="60.5674" volume_left="0.173074" volume_right="0.258678" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="6" duration="42.6643" volume_left="0.288481" volume_right="0.230621" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="6" duration="231.827" volume_left="0.0291862" volume_right="0.0302004" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="6" duration="78.0682" volume_left="0.00287474" volume_right="0.00754823" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="6" duration="216.981" volume_left="0.31438" volume_right="0.307448" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="6" duration="121.302" volume_left="0.0624112" volume_right="0.0691425" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="6" duration="60.5674" volume_left="0.128848" volume_right="0.258678" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="6" duration="42.6643" volume_left="0.288481" volume_right="0.277213" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="6" duration="231.827" volume_left="0.00429283" volume_right="0.0302004" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="6" duration="78.0682" volume_left="0.00315905" volume_right="0.00754823" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="6" duration="264.198" volume_left="0.31438" volume_right="0.291444" beatfreq="0" basefreq="0" state="1"/>
+</entries>
+</voice>
+<voice>
+<description>07Jungle.wav</description>
+<id>7</id>
+<type>2</type>
+<voice_state>0</voice_state>
+<voice_hide>0</voice_hide>
+<voice_mute>0</voice_mute>
+<voice_mono>0</voice_mono>
+<entrycount>23</entrycount>
+<entries>
+<entry parent="7" duration="4.63" volume_left="0.015772" volume_right="0.00191302" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="7" duration="199.494" volume_left="0.064397" volume_right="0.015398" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="7" duration="51.7445" volume_left="0.176778" volume_right="0.31438" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="7" duration="71.0157" volume_left="0.0193652" volume_right="0.0266834" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="7" duration="69.2339" volume_left="9.73181e-17" volume_right="1e-16" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="7" duration="65.5334" volume_left="0.0207634" volume_right="0.0146209" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="7" duration="120.6" volume_left="0.0396759" volume_right="0.0620745" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="7" duration="61.2411" volume_left="0.030113" volume_right="0.0254219" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="7" duration="68.471" volume_left="0.0318517" volume_right="0.0405906" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="7" duration="19.6722" volume_left="0.174794" volume_right="0.293427" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="7" duration="20.5681" volume_left="0.0266559" volume_right="0.0429688" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="7" duration="51.4202" volume_left="0.0536876" volume_right="0.246094" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="7" duration="18.1645" volume_left="0.00887162" volume_right="0.0117188" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="7" duration="83.2067" volume_left="0.0648379" volume_right="0.218559" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="7" duration="50.5383" volume_left="0.0351562" volume_right="0.0277517" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="7" duration="51.7445" volume_left="0.31438" volume_right="0.252992" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="7" duration="71.0157" volume_left="0.0188083" volume_right="0.0266834" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="7" duration="69.2339" volume_left="8.10218e-17" volume_right="1e-16" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="7" duration="65.5334" volume_left="0.0081815" volume_right="0.0207634" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="7" duration="26.9001" volume_left="0.233652" volume_right="0.304262" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="7" duration="93.6999" volume_left="0.00297907" volume_right="0.0117188" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="7" duration="61.2411" volume_left="0.0192852" volume_right="0.030113" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="7" duration="105.098" volume_left="0.0371163" volume_right="0.0405906" beatfreq="0" basefreq="0" state="1"/>
+</entries>
+</voice>
+<voice>
+<description>08Jungle.wav</description>
+<id>8</id>
+<type>2</type>
+<voice_state>0</voice_state>
+<voice_hide>0</voice_hide>
+<voice_mute>0</voice_mute>
+<voice_mono>0</voice_mono>
+<entrycount>29</entrycount>
+<entries>
+<entry parent="8" duration="52.9719" volume_left="5.97244e-17" volume_right="1e-16" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="8" duration="21.9547" volume_left="0.0328163" volume_right="0.0238382" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="8" duration="14.6915" volume_left="0.0182274" volume_right="0.0429688" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="8" duration="5.87659" volume_left="0.201221" volume_right="0.332031" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="8" duration="31.3103" volume_left="0.0195312" volume_right="0.0179984" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="8" duration="68.5918" volume_left="0.041396" volume_right="0.0382263" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="8" duration="7.34574" volume_left="0.034654" volume_right="0.0351562" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="8" duration="8.81489" volume_left="0.324219" volume_right="0.228482" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="8" duration="38.8925" volume_left="0.0351562" volume_right="0.0209835" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="8" duration="52.4436" volume_left="0.0212457" volume_right="0.0103977" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="8" duration="60.2577" volume_left="0.0427059" volume_right="0.31438" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="8" duration="60.4676" volume_left="0.306405" volume_right="0.138722" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="8" duration="60.5826" volume_left="0.0217084" volume_right="0.0450263" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="8" duration="60.5971" volume_left="0.0952669" volume_right="0.31438" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="8" duration="58.907" volume_left="0.0141543" volume_right="0.068895" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="8" duration="128.299" volume_left="0.155459" volume_right="0.280291" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="8" duration="52.5207" volume_left="7.38742e-17" volume_right="1e-16" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="8" duration="11.7532" volume_left="0.00457573" volume_right="0.0195312" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="8" duration="8.10323" volume_left="0.151185" volume_right="0.292969" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="8" duration="73.833" volume_left="0.0286798" volume_right="0.0328163" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="8" duration="62.6045" volume_left="0.041396" volume_right="0.0278338" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="8" duration="61.0409" volume_left="0.212624" volume_right="0.0228628" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="8" duration="52.4436" volume_left="0.0131047" volume_right="0.0212457" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="8" duration="60.2577" volume_left="0.31438" volume_right="0.147325" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="8" duration="60.4676" volume_left="0.190322" volume_right="0.306405" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="8" duration="60.5826" volume_left="0.0450263" volume_right="0.0438466" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="8" duration="119.504" volume_left="0.0920685" volume_right="0.31438" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="8" duration="128.299" volume_left="0.280291" volume_right="0.274898" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="8" duration="16.5859" volume_left="8.17377e-17" volume_right="1e-16" beatfreq="0" basefreq="0" state="1"/>
+</entries>
+</voice>
+<voice>
+<description>09Jungle.wav</description>
+<id>9</id>
+<type>2</type>
+<voice_state>0</voice_state>
+<voice_hide>0</voice_hide>
+<voice_mute>0</voice_mute>
+<voice_mono>0</voice_mono>
+<entrycount>24</entrycount>
+<entries>
+<entry parent="9" duration="142.691" volume_left="0.208947" volume_right="0.131921" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="9" duration="57.4597" volume_left="0.0041562" volume_right="0.0113966" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="9" duration="54.3553" volume_left="0.0109895" volume_right="0.0161208" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="9" duration="132.416" volume_left="0.234514" volume_right="0.182669" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="9" duration="54.7167" volume_left="0.00868772" volume_right="0.0225163" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="9" duration="51.7243" volume_left="0.143844" volume_right="0.291716" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="9" duration="66.7591" volume_left="0.263565" volume_right="0.214598" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="9" duration="70.0396" volume_left="0.134551" volume_right="0.31438" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="9" duration="58.0677" volume_left="0.038566" volume_right="0.0413837" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="9" duration="97.3663" volume_left="0.0314327" volume_right="0.0384708" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="9" duration="108.506" volume_left="0.076108" volume_right="0.205308" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="9" duration="57.4597" volume_left="0.0035062" volume_right="0.0113966" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="9" duration="54.3553" volume_left="0.00191159" volume_right="0.0161208" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="9" duration="18.0797" volume_left="0.234514" volume_right="0.138578" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="9" duration="57.1832" volume_left="0.0507812" volume_right="0.0161786" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="9" duration="57.1532" volume_left="0.198596" volume_right="0.215685" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="9" duration="54.7167" volume_left="0.0225163" volume_right="0.0198093" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="9" duration="29.2819" volume_left="0.291716" volume_right="0.208421" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="9" duration="67.5808" volume_left="0.00390625" volume_right="0.00228862" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="9" duration="21.6207" volume_left="0.00276772" volume_right="0.00390625" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="9" duration="70.0396" volume_left="0.31438" volume_right="0.216917" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="9" duration="58.0677" volume_left="0.0413837" volume_right="0.0208219" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="9" duration="59.7357" volume_left="0.033285" volume_right="0.0384708" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="9" duration="0.6245" volume_left="0.166043" volume_right="0.221086" beatfreq="0" basefreq="0" state="1"/>
+</entries>
+</voice>
+<voice>
+<description>10Jungle.wav</description>
+<id>10</id>
+<type>2</type>
+<voice_state>0</voice_state>
+<voice_hide>0</voice_hide>
+<voice_mute>0</voice_mute>
+<voice_mono>0</voice_mono>
+<entrycount>16</entrycount>
+<entries>
+<entry parent="10" duration="105.937" volume_left="0.30668" volume_right="0.39858" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="10" duration="61.5459" volume_left="0.433327" volume_right="0.293934" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="10" duration="56.4469" volume_left="0.0456888" volume_right="0.199823" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="10" duration="57.2826" volume_left="0.275999" volume_right="0.17242" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="10" duration="187.182" volume_left="0.13305" volume_right="0.329162" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="10" duration="67.2706" volume_left="0.347689" volume_right="0.156204" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="10" duration="177.854" volume_left="0.344077" volume_right="0.382359" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="10" duration="143.828" volume_left="0.0381624" volume_right="0.121497" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="10" duration="65.3243" volume_left="0.291533" volume_right="0.150113" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="10" duration="52.6685" volume_left="0.189841" volume_right="0.216784" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="10" duration="57.2826" volume_left="0.389096" volume_right="0.478751" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="10" duration="187.182" volume_left="0.437017" volume_right="0.0539443" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="10" duration="67.2706" volume_left="0.499265" volume_right="0.161327" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="10" duration="125.659" volume_left="0.442855" volume_right="0.173514" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="10" duration="47.5994" volume_left="0.362863" volume_right="0.474097" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="10" duration="39.667" volume_left="0.292235" volume_right="0.183228" beatfreq="0" basefreq="0" state="1"/>
+</entries>
+</voice>
+<voice>
+<description>11Jungle.wav</description>
+<id>11</id>
+<type>2</type>
+<voice_state>0</voice_state>
+<voice_hide>0</voice_hide>
+<voice_mute>0</voice_mute>
+<voice_mono>0</voice_mono>
+<entrycount>23</entrycount>
+<entries>
+<entry parent="11" duration="27.4069" volume_left="0.733163" volume_right="0.626463" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="11" duration="47.9483" volume_left="0.0936878" volume_right="0.321321" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="11" duration="145.174" volume_left="0.119429" volume_right="0.417978" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="11" duration="47.7434" volume_left="0.323218" volume_right="0.0462881" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="11" duration="47.2683" volume_left="0.249379" volume_right="0.795449" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="11" duration="65.3586" volume_left="0.566294" volume_right="0.236377" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="11" duration="54.6661" volume_left="0.735326" volume_right="0.19298" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="11" duration="62.3371" volume_left="0.418192" volume_right="0.566111" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="11" duration="72.3334" volume_left="0.529012" volume_right="0.401061" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="11" duration="56.0807" volume_left="0.5008" volume_right="0.557385" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="11" duration="65.4479" volume_left="0.738181" volume_right="0.160505" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="11" duration="87.053" volume_left="0.364188" volume_right="0.64443" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="11" duration="47.9483" volume_left="0.657328" volume_right="0.194804" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="11" duration="145.174" volume_left="0.255564" volume_right="0.643754" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="11" duration="47.7434" volume_left="0.76205" volume_right="0.602671" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="11" duration="47.2683" volume_left="0.218977" volume_right="0.423418" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="11" duration="65.3586" volume_left="0.368857" volume_right="0.615975" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="11" duration="54.6661" volume_left="0.402355" volume_right="0.252579" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="11" duration="62.3371" volume_left="0.543088" volume_right="0.0866096" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="11" duration="72.3334" volume_left="0.0507995" volume_right="0.34107" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="11" duration="56.0807" volume_left="0.391" volume_right="0.340759" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="11" duration="65.4479" volume_left="0.100145" volume_right="0.621705" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="11" duration="56.8249" volume_left="0.779449" volume_right="0.711772" beatfreq="0" basefreq="0" state="1"/>
+</entries>
+</voice>
+<voice>
+<description>12Jungle.wav</description>
+<id>12</id>
+<type>2</type>
+<voice_state>0</voice_state>
+<voice_hide>0</voice_hide>
+<voice_mute>0</voice_mute>
+<voice_mono>0</voice_mono>
+<entrycount>20</entrycount>
+<entries>
+<entry parent="12" duration="23.1252" volume_left="0.31438" volume_right="0.305725" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="12" duration="46.953" volume_left="0.000649785" volume_right="0.00274768" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="12" duration="65.278" volume_left="0.2927" volume_right="0.0865414" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="12" duration="54.0664" volume_left="0.0810309" volume_right="0.31438" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="12" duration="51.7712" volume_left="0.152009" volume_right="0.31438" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="12" duration="108.006" volume_left="0.0515982" volume_right="0.0511056" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="12" duration="62.4133" volume_left="0.0202131" volume_right="0.0149502" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="12" duration="68.1208" volume_left="0.0390551" volume_right="0.00842726" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="12" duration="61.4526" volume_left="0.00646163" volume_right="0.0124107" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="12" duration="114.5" volume_left="0.0131383" volume_right="0.0269876" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="12" duration="165.803" volume_left="0.158408" volume_right="0.239963" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="12" duration="65.278" volume_left="0.0780018" volume_right="0.2927" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="12" duration="54.0664" volume_left="0.31438" volume_right="0.243016" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="12" duration="51.7712" volume_left="0.247175" volume_right="0.31438" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="12" duration="108.006" volume_left="0.0515982" volume_right="0.0262409" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="12" duration="62.4133" volume_left="0.0116037" volume_right="0.0202131" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="12" duration="68.1208" volume_left="0.0390551" volume_right="0.0249843" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="12" duration="61.4526" volume_left="0.0124107" volume_right="0.0122171" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="12" duration="114.5" volume_left="0.0143804" volume_right="0.0269876" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="12" duration="92.9026" volume_left="0.239963" volume_right="0.103449" beatfreq="0" basefreq="0" state="1"/>
+</entries>
+</voice>
+<voice>
+<description>13Jungle.wav</description>
+<id>13</id>
+<type>2</type>
+<voice_state>0</voice_state>
+<voice_hide>0</voice_hide>
+<voice_mute>0</voice_mute>
+<voice_mono>0</voice_mono>
+<entrycount>19</entrycount>
+<entries>
+<entry parent="13" duration="41.5603" volume_left="0.0904184" volume_right="0.204651" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="13" duration="70.8538" volume_left="0.00050281" volume_right="3.65716e-05" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="13" duration="171.554" volume_left="0.0433343" volume_right="0.31438" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="13" duration="74.9861" volume_left="0.0111426" volume_right="0.0128353" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="13" duration="74.8328" volume_left="0.0897221" volume_right="0.22695" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="13" duration="75.198" volume_left="0.227572" volume_right="0.149513" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="13" duration="66.2861" volume_left="0.31438" volume_right="0.202964" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="13" duration="63.4944" volume_left="0.0310859" volume_right="0.0181748" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="13" duration="57.4277" volume_left="0.016068" volume_right="0.0202474" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="13" duration="96.7774" volume_left="0.0088387" volume_right="0.0131362" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="13" duration="70.8538" volume_left="0.000171852" volume_right="0.00050281" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="13" duration="171.554" volume_left="0.31438" volume_right="0.0784185" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="13" duration="74.9861" volume_left="0.0128353" volume_right="0.00502501" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="13" duration="74.8328" volume_left="0.0435863" volume_right="0.22695" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="13" duration="75.198" volume_left="0.134183" volume_right="0.227572" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="13" duration="66.2861" volume_left="0.221603" volume_right="0.31438" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="13" duration="63.4944" volume_left="0.0310859" volume_right="0.0153562" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="13" duration="57.4277" volume_left="0.0202474" volume_right="0.0127793" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="13" duration="52.3969" volume_left="0.0131362" volume_right="0.010045" beatfreq="0" basefreq="0" state="1"/>
+</entries>
+</voice>
+<voice>
+<description>14Jungle.wav</description>
+<id>14</id>
+<type>2</type>
+<voice_state>0</voice_state>
+<voice_hide>0</voice_hide>
+<voice_mute>0</voice_mute>
+<voice_mono>0</voice_mono>
+<entrycount>19</entrycount>
+<entries>
+<entry parent="14" duration="74.2944" volume_left="0.118483" volume_right="0.17162" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="14" duration="115.886" volume_left="0.304406" volume_right="0.194314" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="14" duration="64.2373" volume_left="0.254311" volume_right="0.238266" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="14" duration="74.2203" volume_left="0.0411411" volume_right="0.0304252" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="14" duration="60.5428" volume_left="0.0229161" volume_right="0.0221765" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="14" duration="54.5565" volume_left="0.0243242" volume_right="0.00989778" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="14" duration="61.2124" volume_left="0.268956" volume_right="0.186882" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="14" duration="123.28" volume_left="0.0101194" volume_right="0.0160635" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="14" duration="67.7147" volume_left="0.0329312" volume_right="0.0209631" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="14" duration="129.76" volume_left="0.0415099" volume_right="0.0553746" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="14" duration="115.886" volume_left="0.304406" volume_right="0.193466" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="14" duration="64.2373" volume_left="0.254311" volume_right="0.124023" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="14" duration="74.2203" volume_left="0.0411411" volume_right="0.0106348" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="14" duration="60.5428" volume_left="0.0215282" volume_right="0.0229161" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="14" duration="54.5565" volume_left="0.00454176" volume_right="0.0243242" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="14" duration="61.2124" volume_left="0.268956" volume_right="0.228669" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="14" duration="123.28" volume_left="0.01364" volume_right="0.0160635" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="14" duration="67.7147" volume_left="0.0329312" volume_right="0.028563" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="14" duration="52.646" volume_left="0.0423188" volume_right="0.0553746" beatfreq="0" basefreq="0" state="1"/>
+</entries>
+</voice>
+<voice>
+<description>15Jungle.wav</description>
+<id>15</id>
+<type>2</type>
+<voice_state>0</voice_state>
+<voice_hide>0</voice_hide>
+<voice_mute>0</voice_mute>
+<voice_mono>0</voice_mono>
+<entrycount>20</entrycount>
+<entries>
+<entry parent="15" duration="3.69027" volume_left="0.0289491" volume_right="0.179139" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="15" duration="49.3119" volume_left="0.190784" volume_right="0.274966" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="15" duration="64.6784" volume_left="0.0267495" volume_right="0.0281368" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="15" duration="69.8645" volume_left="0.195163" volume_right="0.214805" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="15" duration="169.27" volume_left="1e-16" volume_right="8.61372e-17" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="15" duration="55.6019" volume_left="0.211763" volume_right="0.114817" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="15" duration="71.7967" volume_left="0.226609" volume_right="0.195413" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="15" duration="119.364" volume_left="0.167117" volume_right="0.203" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="15" duration="62.9359" volume_left="0.231687" volume_right="0.182514" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="15" duration="55.6348" volume_left="0.0232818" volume_right="0.0221778" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="15" duration="82.2642" volume_left="0.215467" volume_right="0.104551" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="15" duration="64.6784" volume_left="0.0281368" volume_right="0.0254431" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="15" duration="69.8645" volume_left="0.188688" volume_right="0.214805" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="15" duration="169.27" volume_left="1e-16" volume_right="9.97148e-17" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="15" duration="55.6019" volume_left="0.211763" volume_right="0.125252" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="15" duration="71.7967" volume_left="0.0260287" volume_right="0.226609" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="15" duration="119.364" volume_left="0.181373" volume_right="0.203" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="15" duration="62.9359" volume_left="0.150754" volume_right="0.231687" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="15" duration="55.6348" volume_left="0.0232818" volume_right="0.014761" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="15" duration="26.4416" volume_left="0.0326795" volume_right="0.215467" beatfreq="0" basefreq="0" state="1"/>
+</entries>
+</voice>
+<voice>
+<description>16Jungle.wav</description>
+<id>16</id>
+<type>2</type>
+<voice_state>0</voice_state>
+<voice_hide>0</voice_hide>
+<voice_mute>0</voice_mute>
+<voice_mono>0</voice_mono>
+<entrycount>36</entrycount>
+<entries>
+<entry parent="16" duration="24.7561" volume_left="0.269917" volume_right="0.420753" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="16" duration="77.7465" volume_left="8.12488e-17" volume_right="1.11022e-16" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="16" duration="37.0665" volume_left="0.272161" volume_right="0.417658" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="16" duration="4.40744" volume_left="0.178432" volume_right="0.413009" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="16" duration="59.6051" volume_left="0.0888754" volume_right="0.0776168" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="16" duration="56.3753" volume_left="0.309127" volume_right="0.307344" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="16" duration="57.5823" volume_left="1.11022e-16" volume_right="8.33369e-17" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="16" duration="47.8555" volume_left="0.0216269" volume_right="0.0188262" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="16" duration="15.1147" volume_left="0.0428108" volume_right="0.323199" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="16" duration="91.0872" volume_left="0.00925021" volume_right="0.0261398" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="16" duration="41.8261" volume_left="0.0888754" volume_right="0.0252047" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="16" duration="45.6258" volume_left="0.32338" volume_right="0.416547" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="16" duration="56.524" volume_left="0.420753" volume_right="0.352123" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="16" duration="17.6304" volume_left="0.0210718" volume_right="0.030406" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="16" duration="41.3501" volume_left="0.350274" volume_right="0.311405" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="16" duration="13.0084" volume_left="0.413422" volume_right="0.27755" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="16" duration="48.4819" volume_left="0.0261398" volume_right="0.0186423" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="16" duration="17.6298" volume_left="0.201658" volume_right="0.402553" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="16" duration="74.9266" volume_left="0.0202205" volume_right="0.0365958" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="16" duration="25.3134" volume_left="0.0125131" volume_right="0.0365958" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="16" duration="27.576" volume_left="0.397987" volume_right="0.417658" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="16" duration="2.9383" volume_left="0.214613" volume_right="0.444377" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="16" duration="70.5647" volume_left="0.0254677" volume_right="0.0575076" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="16" duration="56.3753" volume_left="0.309127" volume_right="0.156563" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="16" duration="57.5823" volume_left="1.11022e-16" volume_right="5.78129e-17" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="16" duration="47.8555" volume_left="0.0194805" volume_right="0.0216269" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="16" duration="74.6742" volume_left="0.192956" volume_right="0.323199" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="16" duration="7.34574" volume_left="0.486201" volume_right="0.443716" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="16" duration="66.0081" volume_left="0.0499996" volume_right="0.0575076" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="16" duration="45.6258" volume_left="0.416547" volume_right="0.0145692" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="16" duration="20.5894" volume_left="0.420753" volume_right="0.108451" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="16" duration="35.9346" volume_left="0.0784195" volume_right="0.0267894" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="16" duration="58.9805" volume_left="0.0150107" volume_right="0.030406" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="16" duration="51.9998" volume_left="0.0903243" volume_right="0.413422" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="16" duration="21.2896" volume_left="0.0297674" volume_right="0.0679635" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="16" duration="0.7476" volume_left="0.218951" volume_right="0.420753" beatfreq="0" basefreq="0" state="1"/>
+</entries>
+</voice>
+<voice>
+<description>17Jungle.wav</description>
+<id>17</id>
+<type>2</type>
+<voice_state>0</voice_state>
+<voice_hide>0</voice_hide>
+<voice_mute>0</voice_mute>
+<voice_mono>0</voice_mono>
+<entrycount>20</entrycount>
+<entries>
+<entry parent="17" duration="30.7859" volume_left="0.0120941" volume_right="0.059085" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="17" duration="1.53536" volume_left="0.114283" volume_right="0.0555685" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="17" duration="41.3433" volume_left="0.401367" volume_right="0.53125" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="17" duration="124.088" volume_left="0.536896" volume_right="0.115094" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="17" duration="65.5056" volume_left="0.0596061" volume_right="0.0416767" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="17" duration="59.235" volume_left="0.667307" volume_right="0.0943132" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="17" duration="180.046" volume_left="0.514143" volume_right="0.167517" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="17" duration="121.058" volume_left="0.615409" volume_right="0.0416034" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="17" duration="58.4322" volume_left="0.0974689" volume_right="0.128486" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="17" duration="100.166" volume_left="0.430665" volume_right="0.691518" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="17" duration="42.8787" volume_left="0.0955871" volume_right="0.114283" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="17" duration="124.088" volume_left="0.536896" volume_right="0.0780415" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="17" duration="65.5056" volume_left="0.0363623" volume_right="0.0596061" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="17" duration="59.235" volume_left="0.667307" volume_right="0.254966" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="17" duration="66.8831" volume_left="0.514143" volume_right="0.468267" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="17" duration="113.163" volume_left="0.408488" volume_right="0.444309" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="17" duration="121.058" volume_left="0.615409" volume_right="0.3519" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="17" duration="58.4322" volume_left="0.128486" volume_right="0.0197628" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="17" duration="62.8301" volume_left="0.691518" volume_right="0.597609" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="17" duration="3.7313" volume_left="0.691518" volume_right="0.491903" beatfreq="0" basefreq="0" state="1"/>
+</entries>
+</voice>
+<voice>
+<description>18Jungle.wav</description>
+<id>18</id>
+<type>2</type>
+<voice_state>0</voice_state>
+<voice_hide>0</voice_hide>
+<voice_mute>0</voice_mute>
+<voice_mono>0</voice_mono>
+<entrycount>22</entrycount>
+<entries>
+<entry parent="18" duration="1.14814" volume_left="0.0304898" volume_right="0.0802314" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="18" duration="72.7405" volume_left="0.110886" volume_right="0.0602279" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="18" duration="51.7172" volume_left="1e-16" volume_right="4.80354e-17" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="18" duration="56.6453" volume_left="0.0194391" volume_right="0.234693" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="18" duration="115.467" volume_left="9.54425e-17" volume_right="1e-16" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="18" duration="119.526" volume_left="1e-16" volume_right="6.58839e-17" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="18" duration="54.9305" volume_left="9.29573e-17" volume_right="1e-16" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="18" duration="102.439" volume_left="4.37845e-17" volume_right="1e-16" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="18" duration="55.2557" volume_left="0.183226" volume_right="0.179014" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="18" duration="63.5058" volume_left="0.0565885" volume_right="0.00597486" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="18" duration="131.924" volume_left="0.399759" volume_right="0.37161" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="18" duration="51.7172" volume_left="0.0525885" volume_right="0.103472" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="18" duration="51.4854" volume_left="0.0608641" volume_right="0.0155914" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="18" duration="120.627" volume_left="5.13876e-17" volume_right="1e-16" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="18" duration="59.0868" volume_left="1e-16" volume_right="1.57207e-17" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="18" duration="60.4388" volume_left="0.132535" volume_right="0.0717724" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="18" duration="54.9305" volume_left="0.120097" volume_right="0.21124" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="18" duration="55.8357" volume_left="0.0208102" volume_right="0.0442904" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="18" duration="46.6037" volume_left="0.00339588" volume_right="0.00103992" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="18" duration="55.2557" volume_left="0.0339652" volume_right="0.391775" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="18" duration="63.5058" volume_left="0.186874" volume_right="0.125594" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="18" duration="55.2148" volume_left="0.522877" volume_right="0.385568" beatfreq="0" basefreq="0" state="1"/>
+</entries>
+</voice>
+<voice>
+<description>19Jungle.wav</description>
+<id>19</id>
+<type>2</type>
+<voice_state>0</voice_state>
+<voice_hide>0</voice_hide>
+<voice_mute>0</voice_mute>
+<voice_mono>0</voice_mono>
+<entrycount>38</entrycount>
+<entries>
+<entry parent="19" duration="52.8893" volume_left="0.647561" volume_right="0.621001" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="19" duration="44.9185" volume_left="0.0482762" volume_right="0.0455248" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="19" duration="22.6624" volume_left="0.870865" volume_right="0.758747" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="19" duration="36.2475" volume_left="0.084036" volume_right="0.015612" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="19" duration="61.8062" volume_left="0.8808" volume_right="0.400276" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="19" duration="32.7005" volume_left="0.107509" volume_right="0.0733213" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="19" duration="10.284" volume_left="0.112644" volume_right="0.0248752" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="19" duration="22.0372" volume_left="0.816406" volume_right="0.595821" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="19" duration="16.1606" volume_left="0.0911884" volume_right="0.0310563" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="19" duration="17.3708" volume_left="0.084036" volume_right="0.00512907" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="19" duration="66.5975" volume_left="0.0784886" volume_right="0.682038" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="19" duration="67.4585" volume_left="9.19284e-17" volume_right="1e-16" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="19" duration="32.2167" volume_left="0.8808" volume_right="0.532854" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="19" duration="33.2075" volume_left="0.0286316" volume_right="0.0452502" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="19" duration="25.5584" volume_left="0.8808" volume_right="0.201878" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="19" duration="94.0255" volume_left="0.0452502" volume_right="0.0304801" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="19" duration="41.1362" volume_left="0.0452502" volume_right="0.0117481" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="19" duration="25.1789" volume_left="0.8144" volume_right="0.647073" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="19" duration="37.9944" volume_left="4.55947e-17" volume_right="1e-16" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="19" duration="19.0989" volume_left="0.0804603" volume_right="0.0626812" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="19" duration="38.1979" volume_left="0.436802" volume_right="0.522534" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="19" duration="42.6053" volume_left="0.0711074" volume_right="0.00665004" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="19" duration="8.86548" volume_left="0.230653" volume_right="0.0631276" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="19" duration="33.7398" volume_left="0.870865" volume_right="0.357145" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="19" duration="25.1701" volume_left="0.0449558" volume_right="0.0581788" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="19" duration="61.8062" volume_left="0.8808" volume_right="0.852621" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="19" duration="79.0375" volume_left="0.107509" volume_right="0.0527342" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="19" duration="19.5157" volume_left="0.113611" volume_right="0.13575" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="19" duration="66.5975" volume_left="0.341989" volume_right="0.682038" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="19" duration="67.4585" volume_left="1e-16" volume_right="1.12506e-17" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="19" duration="40.3558" volume_left="0.20568" volume_right="0.8808" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="19" duration="25.0684" volume_left="0.0429585" volume_right="0.0711074" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="19" duration="39.5742" volume_left="0.530326" volume_right="0.8808" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="19" duration="38.1979" volume_left="0.0711074" volume_right="0.0426775" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="19" duration="17.6298" volume_left="0.748494" volume_right="0.233015" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="19" duration="20.1322" volume_left="0.0323215" volume_right="0.010514" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="19" duration="70.3646" volume_left="0.165569" volume_right="0.568104" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="19" duration="46.134" volume_left="1e-16" volume_right="5.78186e-17" beatfreq="0" basefreq="0" state="1"/>
+</entries>
+</voice>
+<voice>
+<description>20Jungle.wav</description>
+<id>20</id>
+<type>2</type>
+<voice_state>0</voice_state>
+<voice_hide>0</voice_hide>
+<voice_mute>0</voice_mute>
+<voice_mono>0</voice_mono>
+<entrycount>56</entrycount>
+<entries>
+<entry parent="20" duration="22.5162" volume_left="0.112671" volume_right="0.147386" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="20" duration="37.7189" volume_left="0.0319312" volume_right="0.0286416" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="20" duration="8.81489" volume_left="0.225428" volume_right="0.28125" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="20" duration="29.383" volume_left="0.078125" volume_right="0.0751982" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="20" duration="20.5681" volume_left="0.265625" volume_right="0.251901" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="20" duration="32.3213" volume_left="0.0976562" volume_right="0.0631622" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="20" duration="14.6915" volume_left="0.0262749" volume_right="0.046875" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="20" duration="23.5064" volume_left="0.28125" volume_right="0.0921388" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="20" duration="23.0911" volume_left="0.0205425" volume_right="0.0390625" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="20" duration="50.2056" volume_left="0.233013" volume_right="0.294351" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="20" duration="55.9884" volume_left="0.0326087" volume_right="0.0294967" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="20" duration="22.0372" volume_left="0.0055972" volume_right="0.0078125" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="20" duration="17.6298" volume_left="0.273438" volume_right="0.219033" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="20" duration="45.3006" volume_left="0.0390625" volume_right="0.0198046" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="20" duration="13.4653" volume_left="0.250242" volume_right="0.105445" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="20" duration="24.9755" volume_left="0.0390625" volume_right="0.026096" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="20" duration="15.8364" volume_left="0.296875" volume_right="0.186469" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="20" duration="50.2753" volume_left="0.0131725" volume_right="0.0158719" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="20" duration="24.9755" volume_left="0.101708" volume_right="0.28125" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="20" duration="51.4202" volume_left="0.0189387" volume_right="0.03125" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="20" duration="13.979" volume_left="0.0318678" volume_right="0.0390625" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="20" duration="18.3423" volume_left="0.0157047" volume_right="0.268026" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="20" duration="33.7904" volume_left="0.0382378" volume_right="0.0703125" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="20" duration="58.7633" volume_left="0.0189145" volume_right="0.0234375" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="20" duration="44.0771" volume_left="0.155536" volume_right="0.232263" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="20" duration="17.6298" volume_left="6.33362e-17" volume_right="1e-16" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="20" duration="19.0989" volume_left="0.324379" volume_right="0.351562" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="20" duration="50.6162" volume_left="0.0234375" volume_right="0.0179709" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="20" duration="27.2486" volume_left="0.194943" volume_right="0.0377212" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="20" duration="34.8809" volume_left="0.0234375" volume_right="0.0228051" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="20" duration="41.5148" volume_left="0.185813" volume_right="0.042616" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="20" duration="19.3595" volume_left="2.89497e-17" volume_right="1e-16" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="20" duration="50.2056" volume_left="0.294351" volume_right="0.27411" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="20" duration="39.1519" volume_left="0.0288454" volume_right="0.0326087" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="20" duration="7.34574" volume_left="0.0426106" volume_right="0.046875" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="20" duration="10.284" volume_left="0.351562" volume_right="0.229563" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="20" duration="39.667" volume_left="0.078125" volume_right="0.0272709" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="20" duration="30.8521" volume_left="0.046875" volume_right="0.0416261" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="20" duration="13.6552" volume_left="0.0365215" volume_right="0.0507812" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="20" duration="9.85119" volume_left="0.123047" volume_right="0.250242" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="20" duration="44.426" volume_left="0.0383053" volume_right="0.0429688" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="20" duration="33.4388" volume_left="0.0104707" volume_right="0.0158719" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="20" duration="7.34574" volume_left="0.0212102" volume_right="0.0390625" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="20" duration="13.2223" volume_left="0.240288" volume_right="0.359375" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="20" duration="35.2596" volume_left="0.0365451" volume_right="0.046875" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="20" duration="1.46915" volume_left="0.03125" volume_right="0.0272858" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="20" duration="13.2223" volume_left="0.183664" volume_right="0.300781" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="20" duration="36.692" volume_left="0.0117188" volume_right="0.00635651" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="20" duration="14.7282" volume_left="0.268026" volume_right="0.200255" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="20" duration="34.4326" volume_left="0.0351562" volume_right="0.00913855" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="20" duration="9.64181" volume_left="0.102975" volume_right="0.192401" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="20" duration="13.2223" volume_left="0.0195312" volume_right="0.0145859" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="20" duration="10.284" volume_left="0.00749613" volume_right="0.0078125" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="20" duration="19.0989" volume_left="0.114021" volume_right="0.238281" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="20" duration="9.48829" volume_left="0.00419575" volume_right="0.0195312" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="20" duration="38.9936" volume_left="0.0340655" volume_right="0.232263" beatfreq="0" basefreq="0" state="1"/>
+</entries>
+</voice>
+<voice>
+<description>21Jungle.wav</description>
+<id>21</id>
+<type>2</type>
+<voice_state>0</voice_state>
+<voice_hide>0</voice_hide>
+<voice_mute>0</voice_mute>
+<voice_mono>0</voice_mono>
+<entrycount>31</entrycount>
+<entries>
+<entry parent="21" duration="104.892" volume_left="0.141866" volume_right="0.104558" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="21" duration="46.0854" volume_left="0.420193" volume_right="0.201447" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="21" duration="48.9857" volume_left="0.0741661" volume_right="0.0312731" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="21" duration="75.309" volume_left="0.45088" volume_right="0.182444" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="21" duration="103.768" volume_left="7.6384e-17" volume_right="1e-16" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="21" duration="14.6915" volume_left="0.0147815" volume_right="0.0429688" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="21" duration="17.6298" volume_left="0.269439" volume_right="0.527344" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="21" duration="27.1336" volume_left="0.030052" volume_right="0.0429688" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="21" duration="66.0604" volume_left="0.0352808" volume_right="0.0572814" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="21" duration="46.9328" volume_left="0.0514435" volume_right="0.065317" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="21" duration="67.0231" volume_left="0.384685" volume_right="0.129404" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="21" duration="13.2223" volume_left="0.394531" volume_right="0.237807" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="21" duration="54.3585" volume_left="0.032826" volume_right="0.0351562" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="21" duration="8.81489" volume_left="0.0390314" volume_right="0.0585938" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="21" duration="14.6915" volume_left="0.314265" volume_right="0.371094" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="21" duration="8.81489" volume_left="0.015625" volume_right="0.0146865" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="21" duration="63.1734" volume_left="0.4375" volume_right="0.147954" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="21" duration="74.7164" volume_left="0.133646" volume_right="0.136719" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="21" duration="46.0854" volume_left="0.336159" volume_right="0.420193" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="21" duration="48.9857" volume_left="0.0423173" volume_right="0.0741661" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="21" duration="75.309" volume_left="0.371785" volume_right="0.45088" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="21" duration="50.7765" volume_left="9.146e-17" volume_right="1e-16" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="21" duration="18.5247" volume_left="0.309289" volume_right="0.161749" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="21" duration="51.4202" volume_left="0.0429688" volume_right="0.0402177" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="21" duration="0" volume_left="0.0345301" volume_right="0.0351562" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="21" duration="8.81489" volume_left="0.410156" volume_right="0.360899" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="21" duration="33.6862" volume_left="0.0351562" volume_right="0.0323776" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="21" duration="66.0604" volume_left="0.0549444" volume_right="0.0572814" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="21" duration="46.9328" volume_left="0.0445928" volume_right="0.065317" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="21" duration="132.563" volume_left="0.0908751" volume_right="0.384685" beatfreq="0" basefreq="0" state="1"/>
+<entry parent="21" duration="64.5383" volume_left="0.182605" volume_right="0.313846" beatfreq="0" basefreq="0" state="1"/>
+</entries>
+</voice>
+</schedule>

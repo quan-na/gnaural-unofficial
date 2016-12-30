@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+<!-- See http://gnaural.sourceforge.net -->
+<schedule>
+<gnauralfile_version>1.20101006</gnauralfile_version>
+<gnaural_version>1.0.20110215</gnaural_version>
+<date>20160206 14:09:00</date>
+<title>AcademicPerformanceEnhancement</title>
+<schedule_description>Alternate between 14 Hz and 22 Hz (http://preview.tinyurl.com/zt4wm2a)</schedule_description>
+<author>asymptote</author>
+<totaltime>20.0</totaltime>
+<voicecount>3</voicecount>
+<totalentrycount>3</totalentrycount>
+<loops>15</loops>
+<overallvolume_left>1.0</overallvolume_left>
+<overallvolume_right>1.0</overallvolume_right>
+<stereoswap>0</stereoswap>
+<graphview>1</graphview>
+<voice>
+    <description>14 Hz</description>
+    <id>0</id>
+    <type>0</type>
+    <voice_state>0</voice_state>
+    <voice_hide>0</voice_hide>
+    <voice_mute>0</voice_mute>
+    <voice_mono>0</voice_mono>
+    <entrycount>15</entrycount>
+    <entries>
+        <entry parent="0" duration="5.00" volume_left="0.85" volume_right="0.85" beatfreq="14.0" basefreq="150.0" state="0"/>
+        <entry parent="0" duration="5.00" volume_left="0.85" volume_right="0.85" beatfreq="14.0" basefreq="155.0" state="0"/>
+        <entry parent="0" duration="5.00" volume_left="0.85" volume_right="0.85" beatfreq="14.0" basefreq="160.0" state="0"/>
+        <entry parent="0" duration="5.00" volume_left="0.85" volume_right="0.85" beatfreq="14.0" basefreq="165.0" state="0"/>
+        <entry parent="0" duration="5.00" volume_left="0.85" volume_right="0.85" beatfreq="14.0" basefreq="170.0" state="0"/>
+        <entry parent="0" duration="5.00" volume_left="0.85" volume_right="0.85" beatfreq="14.0" basefreq="175.0" state="0"/>
+        <entry parent="0" duration="5.00" volume_left="0.85" volume_right="0.85" beatfreq="14.0" basefreq="170.0" state="0"/>
+        <entry parent="0" duration="5.00" volume_left="0.85" volume_right="0.85" beatfreq="14.0" basefreq="165.0" state="0"/>
+        <entry parent="0" duration="5.00" volume_left="0.85" volume_right="0.85" beatfreq="14.0" basefreq="160.0" state="0"/>
+        <entry parent="0" duration="5.00" volume_left="0.85" volume_right="0.85" beatfreq="14.0" basefreq="155.0" state="0"/>
+        <entry parent="0" duration="5.00" volume_left="0.85" volume_right="0.85" beatfreq="14.0" basefreq="150.0" state="0"/>
+        <entry parent="0" duration="5.00" volume_left="0.85" volume_right="0.85" beatfreq="14.0" basefreq="150.0" state="0"/>
+        <entry parent="0" duration="0.00" volume_left="0.85" volume_right="0.85" beatfreq="14.0" basefreq="150.0" state="0"/>
+        <entry parent="0" duration="60.0" volume_left="0.00" volume_right="0.00" beatfreq="14.0" basefreq="150.0" state="0"/>
+        <entry parent="0" duration="0.00" volume_left="0.00" volume_right="0.00" beatfreq="14.0" basefreq="150.0" state="0"/>
+    </entries>
+</voice>
+<voice>
+    <description>22 Hz</description>
+    <id>1</id>
+    <type>0</type>
+    <voice_state>0</voice_state>
+    <voice_hide>0</voice_hide>
+    <voice_mute>0</voice_mute>
+    <voice_mono>0</voice_mono>
+    <entrycount>15</entrycount>
+    <entries>
+        <entry parent="0" duration="60.0" volume_left="0.00" volume_right="0.00" beatfreq="22.0" basefreq="150.0" state="0"/>
+        <entry parent="0" duration="0.00" volume_left="0.00" volume_right="0.00" beatfreq="22.0" basefreq="150.0" state="0"/>
+        <entry parent="0" duration="5.00" volume_left="0.85" volume_right="0.85" beatfreq="22.0" basefreq="150.0" state="0"/>
+        <entry parent="0" duration="5.00" volume_left="0.85" volume_right="0.85" beatfreq="22.0" basefreq="155.0" state="0"/>
+        <entry parent="0" duration="5.00" volume_left="0.85" volume_right="0.85" beatfreq="22.0" basefreq="160.0" state="0"/>
+        <entry parent="0" duration="5.00" volume_left="0.85" volume_right="0.85" beatfreq="22.0" basefreq="165.0" state="0"/>
+        <entry parent="0" duration="5.00" volume_left="0.85" volume_right="0.85" beatfreq="22.0" basefreq="170.0" state="0"/>
+        <entry parent="0" duration="5.00" volume_left="0.85" volume_right="0.85" beatfreq="22.0" basefreq="175.0" state="0"/>
+        <entry parent="0" duration="5.00" volume_left="0.85" volume_right="0.85" beatfreq="22.0" basefreq="170.0" state="0"/>
+        <entry parent="0" duration="5.00" volume_left="0.85" volume_right="0.85" beatfreq="22.0" basefreq="165.0" state="0"/>
+        <entry parent="0" duration="5.00" volume_left="0.85" volume_right="0.85" beatfreq="22.0" basefreq="160.0" state="0"/>
+        <entry parent="0" duration="5.00" volume_left="0.85" volume_right="0.85" beatfreq="22.0" basefreq="155.0" state="0"/>
+        <entry parent="0" duration="5.00" volume_left="0.85" volume_right="0.85" beatfreq="22.0" basefreq="150.0" state="0"/>
+        <entry parent="0" duration="5.00" volume_left="0.85" volume_right="0.85" beatfreq="22.0" basefreq="150.0" state="0"/>
+        <entry parent="0" duration="0.00" volume_left="0.85" volume_right="0.85" beatfreq="22.0" basefreq="150.0" state="0"/>
+    </entries>
+</voice>
+<voice>
+    <description>Background noise</description>
+    <id>2</id>
+    <type>1</type>
+    <voice_state>0</voice_state>
+    <voice_hide>0</voice_hide>
+    <voice_mute>0</voice_mute>
+    <voice_mono>0</voice_mono>
+    <entrycount>1</entrycount>
+    <entries>
+    <entry parent="2" duration="120.0" volume_left="0.15" volume_right="0.15" beatfreq="0.0" basefreq="0.0" state="0"/>
+    </entries>
+</voice>
+</schedule>

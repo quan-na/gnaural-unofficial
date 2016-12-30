@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+<!-- See http://gnaural.sourceforge.net -->
+<schedule>
+<gnauralfile_version>1.20101006</gnauralfile_version>
+<gnaural_version>1.0.20110606</gnaural_version>
+<date>Mon Jun 20 12:24:26 2011
+</date>
+<title>Energize</title>
+<schedule_description>Sunrise</schedule_description>
+<author>Gnaural</author>
+<totaltime>60</totaltime>
+<voicecount>5</voicecount>
+<totalentrycount>5</totalentrycount>
+<loops>0</loops>
+<overallvolume_left>1</overallvolume_left>
+<overallvolume_right>1</overallvolume_right>
+<stereoswap>0</stereoswap>
+<graphview>3</graphview>
+<voice>
+<description>3 @ 261.63hz</description>
+<id>0</id>
+<type>0</type>
+<voice_state>0</voice_state>
+<voice_hide>0</voice_hide>
+<voice_mute>0</voice_mute>
+<voice_mono>0</voice_mono>
+<entrycount>1</entrycount>
+<entries>
+<entry parent="0" duration="60" volume_left="0.369759" volume_right="0.369759" beatfreq="3" basefreq="261.63" state="1"/>
+</entries>
+</voice>
+<voice>
+<description>3 @ 196hz</description>
+<id>1</id>
+<type>0</type>
+<voice_state>0</voice_state>
+<voice_hide>0</voice_hide>
+<voice_mute>0</voice_mute>
+<voice_mono>0</voice_mono>
+<entrycount>1</entrycount>
+<entries>
+<entry parent="1" duration="60" volume_left="0.369759" volume_right="0.369759" beatfreq="3" basefreq="196" state="1"/>
+</entries>
+</voice>
+<voice>
+<description>3 @ 130.81hz</description>
+<id>2</id>
+<type>0</type>
+<voice_state>0</voice_state>
+<voice_hide>0</voice_hide>
+<voice_mute>0</voice_mute>
+<voice_mono>0</voice_mono>
+<entrycount>1</entrycount>
+<entries>
+<entry parent="2" duration="60" volume_left="0.550583" volume_right="0.550583" beatfreq="3" basefreq="130.81" state="1"/>
+</entries>
+</voice>
+<voice>
+<description>1 @ 98hz</description>
+<id>3</id>
+<type>4</type>
+<voice_state>0</voice_state>
+<voice_hide>0</voice_hide>
+<voice_mute>1</voice_mute>
+<voice_mono>0</voice_mono>
+<entrycount>1</entrycount>
+<entries>
+<entry parent="3" duration="60" volume_left="0.448518" volume_right="0.448518" beatfreq="3.00975" basefreq="50.7909" state="1"/>
+</entries>
+</voice>
+<voice>
+<description>Stalactites</description>
+<id>4</id>
+<type>5</type>
+<voice_state>1</voice_state>
+<voice_hide>0</voice_hide>
+<voice_mute>0</voice_mute>
+<voice_mono>0</voice_mono>
+<entrycount>1</entrycount>
+<entries>
+<entry parent="4" duration="60" volume_left="0.296372" volume_right="0.296372" beatfreq="2" basefreq="1.65844e-05" state="1"/>
+</entries>
+</voice>
+</schedule>

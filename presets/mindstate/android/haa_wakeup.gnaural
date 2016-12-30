@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<!-- See http://gnaural.sourceforge.net -->
+<schedule>
+<gnauralfile_version>1.20101006</gnauralfile_version>
+<gnaural_version>1.0.20110606</gnaural_version>
+<date>Mon Jun 20 12:27:19 2011
+</date>
+<title>Awaken</title>
+<schedule_description>Transitions from sleepy to wakeful</schedule_description>
+<author>Gnaural</author>
+<totaltime>270</totaltime>
+<voicecount>3</voicecount>
+<totalentrycount>20</totalentrycount>
+<loops>1</loops>
+<overallvolume_left>1</overallvolume_left>
+<overallvolume_right>1</overallvolume_right>
+<stereoswap>0</stereoswap>
+<graphview>1</graphview>
+<voice>
+<description>Ramp</description>
+<id>0</id>
+<type>0</type>
+<voice_state>0</voice_state>
+<voice_hide>0</voice_hide>
+<voice_mute>0</voice_mute>
+<voice_mono>0</voice_mono>
+<entrycount>16</entrycount>
+<entries>
+<entry parent="0" duration="0" volume_left="0.242853" volume_right="0.242853" beatfreq="4.82328" basefreq="110" state="1"/>
+<entry parent="0" duration="153.694" volume_left="0.242853" volume_right="0.242853" beatfreq="4.82328" basefreq="110" state="1"/>
+<entry parent="0" duration="28.5398" volume_left="0.419224" volume_right="0.419224" beatfreq="5.77963" basefreq="305.94" state="1"/>
+<entry parent="0" duration="23.205" volume_left="0.451975" volume_right="0.451975" beatfreq="6.42412" basefreq="342.325" state="1"/>
+<entry parent="0" duration="18.5215" volume_left="0.478604" volume_right="0.478604" beatfreq="7.2973" basefreq="371.908" state="1"/>
+<entry parent="0" duration="10.4316" volume_left="0.499859" volume_right="0.499859" beatfreq="8.29522" basefreq="395.521" state="1"/>
+<entry parent="0" duration="8.7285" volume_left="0.511829" volume_right="0.511829" beatfreq="9.1684" basefreq="408.82" state="1"/>
+<entry parent="0" duration="6.06111" volume_left="0.521845" volume_right="0.521845" beatfreq="10.2079" basefreq="419.948" state="1"/>
+<entry parent="0" duration="3.51895" volume_left="0.528801" volume_right="0.528801" beatfreq="11.4761" basefreq="427.675" state="1"/>
+<entry parent="0" duration="2.16647" volume_left="0.532839" volume_right="0.532839" beatfreq="12.8274" basefreq="432.161" state="1"/>
+<entry parent="0" duration="1.45266" volume_left="0.535325" volume_right="0.535325" beatfreq="14.0541" basefreq="434.923" state="1"/>
+<entry parent="0" duration="1.33996" volume_left="0.536992" volume_right="0.536992" beatfreq="15.6549" basefreq="436.775" state="1"/>
+<entry parent="0" duration="0.851561" volume_left="0.53853" volume_right="0.53853" beatfreq="17.5468" basefreq="438.483" state="1"/>
+<entry parent="0" duration="0.33812" volume_left="0.539507" volume_right="0.539507" beatfreq="19.1684" basefreq="439.569" state="1"/>
+<entry parent="0" duration="9.60511" volume_left="0.539895" volume_right="0.539895" beatfreq="20" basefreq="440" state="1"/>
+<entry parent="0" duration="1.54566" volume_left="0.550917" volume_right="0.550917" beatfreq="20" basefreq="440" state="1"/>
+</entries>
+</voice>
+<voice>
+<description>ground</description>
+<id>1</id>
+<type>1</type>
+<voice_state>1</voice_state>
+<voice_hide>0</voice_hide>
+<voice_mute>0</voice_mute>
+<voice_mono>0</voice_mono>
+<entrycount>1</entrycount>
+<entries>
+<entry parent="1" duration="270" volume_left="0.0615363" volume_right="0.0615363" beatfreq="0" basefreq="0" state="1"/>
+</entries>
+</voice>
+<voice>
+<description>Peaker</description>
+<id>2</id>
+<type>4</type>
+<voice_state>0</voice_state>
+<voice_hide>0</voice_hide>
+<voice_mute>0</voice_mute>
+<voice_mono>0</voice_mono>
+<entrycount>3</entrycount>
+<entries>
+<entry parent="2" duration="258.875" volume_left="0.242853" volume_right="0.242853" beatfreq="4.82328" basefreq="220" state="1"/>
+<entry parent="2" duration="9.58006" volume_left="0.611618" volume_right="0.611618" beatfreq="20" basefreq="220" state="1"/>
+<entry parent="2" duration="1.54494" volume_left="0.611618" volume_right="0.611618" beatfreq="20" basefreq="220" state="1"/>
+</entries>
+</voice>
+</schedule>

@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+<!-- See http://gnaural.sourceforge.net -->
+<schedule>
+<gnauralfile_version>1.20101006</gnauralfile_version>
+<gnaural_version>1.0.20101115</gnaural_version>
+<date>Fri Oct  8 15:07:53 2010
+</date>
+<title>Gnaural2: Hammer of Thor</title>
+<schedule_description>Gnaural2 File for playback of hell</schedule_description>
+<author>Gnauraly</author>
+<totaltime>1.00476</totaltime>
+<voicecount>3</voicecount>
+<totalentrycount>45</totalentrycount>
+<loops>4900</loops>
+<overallvolume_left>1</overallvolume_left>
+<overallvolume_right>1</overallvolume_right>
+<stereoswap>0</stereoswap>
+<graphview>7</graphview>
+<voice>
+<description>Drone</description>
+<id>0</id>
+<type>0</type>
+<voice_state>0</voice_state>
+<voice_hide>0</voice_hide>
+<voice_mute>0</voice_mute>
+<voice_mono>0</voice_mono>
+<entrycount>15</entrycount>
+<entries>
+<entry parent="0" duration="0.0527499" volume_left="0.853125" volume_right="0.853125" beatfreq="0" basefreq="44" state="1"/>
+<entry parent="0" duration="0.0741011" volume_left="0.853125" volume_right="0.853125" beatfreq="0" basefreq="39.0156" state="1"/>
+<entry parent="0" duration="0.0590297" volume_left="0.853125" volume_right="0.853125" beatfreq="0" basefreq="41.0781" state="1"/>
+<entry parent="0" duration="0.0854046" volume_left="0.853125" volume_right="0.853125" beatfreq="0" basefreq="32.8281" state="1"/>
+<entry parent="0" duration="0.0602856" volume_left="0.853125" volume_right="0.853125" beatfreq="0" basefreq="42.1094" state="1"/>
+<entry parent="0" duration="0.0577737" volume_left="0.853125" volume_right="0.853125" beatfreq="0" basefreq="39.1875" state="1"/>
+<entry parent="0" duration="0.0690773" volume_left="0.853125" volume_right="0.453223" beatfreq="0" basefreq="34.8906" state="1"/>
+<entry parent="0" duration="0.0489821" volume_left="0.853125" volume_right="0.453223" beatfreq="0" basefreq="41.0781" state="1"/>
+<entry parent="0" duration="0.0376785" volume_left="0.853125" volume_right="0.453223" beatfreq="0" basefreq="36.6094" state="1"/>
+<entry parent="0" duration="0.1055" volume_left="0.853125" volume_right="0.453223" beatfreq="0" basefreq="42.1094" state="1"/>
+<entry parent="0" duration="0.0891725" volume_left="0.853125" volume_right="0.453223" beatfreq="0" basefreq="36.3121" state="1"/>
+<entry parent="0" duration="0.0590296" volume_left="0.853125" volume_right="0.453223" beatfreq="0" basefreq="33.8594" state="1"/>
+<entry parent="0" duration="0.0879165" volume_left="0.853125" volume_right="0.453223" beatfreq="0" basefreq="42.4531" state="1"/>
+<entry parent="0" duration="0.048982" volume_left="0.853125" volume_right="0.453223" beatfreq="0" basefreq="35.9219" state="1"/>
+<entry parent="0" duration="0.069078" volume_left="0.853125" volume_right="0.453223" beatfreq="0" basefreq="38.6719" state="1"/>
+</entries>
+</voice>
+<voice>
+<description>Hammer of Thor</description>
+<id>1</id>
+<type>1</type>
+<voice_state>0</voice_state>
+<voice_hide>0</voice_hide>
+<voice_mute>0</voice_mute>
+<voice_mono>0</voice_mono>
+<entrycount>12</entrycount>
+<entries>
+<entry parent="1" duration="0.0389345" volume_left="0" volume_right="0" beatfreq="0" basefreq="1" state="1"/>
+<entry parent="1" duration="0.0941963" volume_left="0" volume_right="0.9375" beatfreq="0" basefreq="1" state="1"/>
+<entry parent="1" duration="0.109268" volume_left="0.9375" volume_right="0.065918" beatfreq="0" basefreq="1" state="1"/>
+<entry parent="1" duration="0.124339" volume_left="0" volume_right="0.722656" beatfreq="0" basefreq="1" state="1"/>
+<entry parent="1" duration="0.0439583" volume_left="0.589844" volume_right="0" beatfreq="0" basefreq="1" state="1"/>
+<entry parent="1" duration="0.0577737" volume_left="0.059906" volume_right="0.589844" beatfreq="0" basefreq="1" state="1"/>
+<entry parent="1" duration="0.0904284" volume_left="0.488281" volume_right="0" beatfreq="0" basefreq="1" state="1"/>
+<entry parent="1" duration="0.0075357" volume_left="0" volume_right="0.410156" beatfreq="0" basefreq="1" state="1"/>
+<entry parent="1" duration="0.1055" volume_left="0" volume_right="0.410156" beatfreq="0" basefreq="42.7969" state="1"/>
+<entry parent="1" duration="0.0954522" volume_left="0.316406" volume_right="0.0197754" beatfreq="0" basefreq="1" state="1"/>
+<entry parent="1" duration="0.101732" volume_left="0.010437" volume_right="0.222656" beatfreq="0" basefreq="1" state="1"/>
+<entry parent="1" duration="0.135643" volume_left="0.152344" volume_right="0.00952148" beatfreq="0" basefreq="1" state="1"/>
+</entries>
+</voice>
+<voice>
+<description>Phone Home</description>
+<id>2</id>
+<type>0</type>
+<voice_state>1</voice_state>
+<voice_hide>0</voice_hide>
+<voice_mute>0</voice_mute>
+<voice_mono>0</voice_mono>
+<entrycount>18</entrycount>
+<entries>
+<entry parent="2" duration="0.0615416" volume_left="0.1" volume_right="0.0453125" beatfreq="4" basefreq="220" state="1"/>
+<entry parent="2" duration="0.00502381" volume_left="0.0820312" volume_right="0.0371704" beatfreq="4" basefreq="220" state="1"/>
+<entry parent="2" duration="0.0150714" volume_left="0.53125" volume_right="0.21582" beatfreq="4" basefreq="110" state="1"/>
+<entry parent="2" duration="0.101732" volume_left="0.0585938" volume_right="0.0238037" beatfreq="4" basefreq="110" state="1"/>
+<entry parent="2" duration="0.125595" volume_left="0.1" volume_right="0.0765625" beatfreq="4" basefreq="91.0938" state="1"/>
+<entry parent="2" duration="0.00753571" volume_left="0.0976562" volume_right="0.0747681" beatfreq="4" basefreq="91.0938" state="1"/>
+<entry parent="2" duration="0.00753571" volume_left="0.578125" volume_right="0.397461" beatfreq="4" basefreq="112.578" state="1"/>
+<entry parent="2" duration="0.149458" volume_left="0.0976562" volume_right="0.0671387" beatfreq="4" basefreq="112.578" state="1"/>
+<entry parent="2" duration="0.106756" volume_left="0.05625" volume_right="0.1" beatfreq="4" basefreq="136.641" state="1"/>
+<entry parent="2" duration="0.0113036" volume_left="0.0316406" volume_right="0.136719" beatfreq="4" basefreq="136.641" state="1"/>
+<entry parent="2" duration="0.0163274" volume_left="0.0140625" volume_right="0.578125" beatfreq="4" basefreq="172.734" state="1"/>
+<entry parent="2" duration="0.175833" volume_left="0.000342061" volume_right="0.144531" beatfreq="4" basefreq="172.734" state="1"/>
+<entry parent="2" duration="0.00502381" volume_left="8.09552e-07" volume_right="0.113281" beatfreq="4" basefreq="172.734" state="1"/>
+<entry parent="2" duration="0.0100476" volume_left="8.09552e-07" volume_right="0.761719" beatfreq="4" basefreq="172.734" state="1"/>
+<entry parent="2" duration="0.118059" volume_left="0.00881348" volume_right="0.117188" beatfreq="4" basefreq="208.828" state="1"/>
+<entry parent="2" duration="0.00125595" volume_left="0.000662847" volume_right="0.113281" beatfreq="4" basefreq="208.828" state="1"/>
+<entry parent="2" duration="0.00879166" volume_left="0.000662847" volume_right="0.839844" beatfreq="4" basefreq="208.828" state="1"/>
+<entry parent="2" duration="0.077869" volume_left="5.23152e-07" volume_right="0.113281" beatfreq="4" basefreq="208.828" state="1"/>
+</entries>
+</voice>
+</schedule>

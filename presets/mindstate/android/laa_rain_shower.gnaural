@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<!-- See http://gnaural.sourceforge.net -->
+<schedule>
+<gnauralfile_version>1.20101006</gnauralfile_version>
+<gnaural_version>1.0.20110606</gnaural_version>
+<date>Mon Jun 20 12:33:02 2011
+</date>
+<title>Rain Shower</title>
+<schedule_description>Rainfall to meditate by (with optional BB, unmute to use)</schedule_description>
+<author>Gnaural</author>
+<totaltime>600</totaltime>
+<voicecount>2</voicecount>
+<totalentrycount>22</totalentrycount>
+<loops>0</loops>
+<overallvolume_left>1</overallvolume_left>
+<overallvolume_right>1</overallvolume_right>
+<stereoswap>0</stereoswap>
+<graphview>3</graphview>
+<voice>
+<description>ebb and flow of a rain shower</description>
+<id>0</id>
+<type>6</type>
+<voice_state>1</voice_state>
+<voice_hide>0</voice_hide>
+<voice_mute>0</voice_mute>
+<voice_mono>0</voice_mono>
+<entrycount>21</entrycount>
+<entries>
+<entry parent="0" duration="14.0556" volume_left="0.441509" volume_right="0.336031" beatfreq="8" basefreq="0.27239" state="1"/>
+<entry parent="0" duration="18.448" volume_left="0.397069" volume_right="0.441509" beatfreq="8" basefreq="0.380816" state="1"/>
+<entry parent="0" duration="10.981" volume_left="0.441509" volume_right="0.435904" beatfreq="8" basefreq="0.373428" state="1"/>
+<entry parent="0" duration="2.19619" volume_left="0.441509" volume_right="0.344525" beatfreq="8" basefreq="0.291335" state="1"/>
+<entry parent="0" duration="10.1025" volume_left="0.441509" volume_right="0.367374" beatfreq="8" basefreq="0.214168" state="1"/>
+<entry parent="0" duration="19.7657" volume_left="0.441509" volume_right="0.353708" beatfreq="8" basefreq="0.0992392" state="1"/>
+<entry parent="0" duration="87.4085" volume_left="0.380443" volume_right="0.441509" beatfreq="8" basefreq="0.0245355" state="1"/>
+<entry parent="0" duration="14.1853" volume_left="0.441509" volume_right="0.390414" beatfreq="8" basefreq="0.182152" state="1"/>
+<entry parent="0" duration="136.034" volume_left="0.441509" volume_right="0.348581" beatfreq="8" basefreq="0.252339" state="1"/>
+<entry parent="0" duration="7.90667" volume_left="0.417861" volume_right="0.441509" beatfreq="8" basefreq="0.286409" state="1"/>
+<entry parent="0" duration="9.66325" volume_left="0.406483" volume_right="0.441509" beatfreq="8" basefreq="0.418428" state="1"/>
+<entry parent="0" duration="25.9151" volume_left="0.392578" volume_right="0.441509" beatfreq="8" basefreq="0.509689" state="1"/>
+<entry parent="0" duration="35.1386" volume_left="0.441509" volume_right="0.384642" beatfreq="8" basefreq="0.576017" state="1"/>
+<entry parent="0" duration="7.46706" volume_left="0.441509" volume_right="0.3552" beatfreq="8" basefreq="0.29708" state="1"/>
+<entry parent="0" duration="9.22401" volume_left="0.441509" volume_right="0.363831" beatfreq="8" basefreq="0.0717772" state="1"/>
+<entry parent="0" duration="17.5695" volume_left="0.441509" volume_right="0.404834" beatfreq="8" basefreq="0.0331942" state="1"/>
+<entry parent="0" duration="11.4202" volume_left="0.441509" volume_right="0.339367" beatfreq="8" basefreq="0.0438661" state="1"/>
+<entry parent="0" duration="72.0351" volume_left="0.441509" volume_right="0.337119" beatfreq="8" basefreq="0.244542" state="1"/>
+<entry parent="0" duration="13.1772" volume_left="0.441509" volume_right="0.391477" beatfreq="8" basefreq="0.288052" state="1"/>
+<entry parent="0" duration="26.7936" volume_left="0.387429" volume_right="0.441509" beatfreq="8" basefreq="0.149315" state="1"/>
+<entry parent="0" duration="50.5129" volume_left="0.416631" volume_right="0.441509" beatfreq="8" basefreq="0.155062" state="1"/>
+</entries>
+</voice>
+<voice>
+<description>3.85hz</description>
+<id>1</id>
+<type>0</type>
+<voice_state>0</voice_state>
+<voice_hide>1</voice_hide>
+<voice_mute>1</voice_mute>
+<voice_mono>0</voice_mono>
+<entrycount>1</entrycount>
+<entries>
+<entry parent="1" duration="600" volume_left="0.25" volume_right="0.25" beatfreq="3.85" basefreq="241.934" state="0"/>
+</entries>
+</voice>
+</schedule>
